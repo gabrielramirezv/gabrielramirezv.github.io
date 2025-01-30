@@ -1,37 +1,34 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Gabriel Ramirez-Vilchis"
+image: "gabriel.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: BlueSky
+    url: "https://bsky.app/profile/gabrielramv.bsky.social"
+  - label: X
+    url: "https://x.com/GabrielRamV"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/gabrielramirezv"
+  - label: Instagram
+    url: "https://www.instagram.com/gaboram_2810"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:gramirez@lcg.unam.mx"
 output:
   postcards::trestles
 ---
  
-## Bio
+## About me  
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+I am an undergraduate student in <a href="https://www.lcg.unam.mx/">
+<span style="color: green;">Genomics Sciences</span></a> at the <a 
+href="https://www.unam.mx/"><span style="color: green;">National Autonomous 
+University of Mexico (UNAM)</span></a>. I am interested in immunology, viruses 
+and bioinformatics.  
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Center for Genomics Sciences, UNAM** | Mexico, Morelos  
+Undergraduate in Genomics Sciences | August 2021 - Present  
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
