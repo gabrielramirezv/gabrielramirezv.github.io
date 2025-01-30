@@ -24,10 +24,17 @@ href="https://www.unam.mx/"><span style="color: green;">National Autonomous
 University of Mexico (UNAM)</span></a>. I am interested in immunology, viruses 
 and bioinformatics.  
 
+I am currently doing research about erythrocytes differentiation at Dr. Yvonne 
+Rosenstein's lab.  
+
+
 ## Education
 
 **Center for Genomics Sciences, UNAM** | Mexico, Morelos  
 Undergraduate in Genomics Sciences | August 2021 - Present  
+
+**National High School No. 8** | Mexico, Mexico City  
+High School | August 2018 - July 2021
 
 
 ## Experience
