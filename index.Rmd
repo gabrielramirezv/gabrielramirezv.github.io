@@ -1,16 +1,16 @@
 ---
 title: "Gabriel Ramirez-Vilchis"
-image: "gabriel.jpg"
+image: "gabrielramirezv_circle.jpg"
 links:
-  - label: BlueSky
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1159px-Bluesky_Logo.svg.png" width=30 height=30>
     url: "https://bsky.app/profile/gabrielramv.bsky.social"
-  - label: X
+  - label: <img src="https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png" width=30 height=30>
     url: "https://x.com/GabrielRamV"
-  - label: GitHub
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=30 height=30>
     url: "https://github.com/gabrielramirezv"
-  - label: Instagram
+  - label: <img src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png" width=30 height=30>
     url: "https://www.instagram.com/gaboram_2810"
-  - label: Email
+  - label: <img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" width=30 height=30>
     url: "mailto:gramirez@lcg.unam.mx"
 output:
   postcards::trestles
@@ -19,26 +19,45 @@ output:
 ## About me  
 
 I am an undergraduate student in <a href="https://www.lcg.unam.mx/">
-<span style="color: green;">Genomics Sciences</span></a> at the <a 
+<span style="color: green;">Genomic Sciences</span></a> at the <a 
 href="https://www.unam.mx/"><span style="color: green;">National Autonomous 
 University of Mexico (UNAM)</span></a>. I am interested in immunology, viruses 
 and bioinformatics.  
 
-I am currently doing research about erythrocytes differentiation at Dr. Yvonne 
-Rosenstein's lab.  
+Currently, I am doing research about erythrocytes differentiation at <a href="https://www.ibt.unam.mx/perfil/3283/dra-yvonne-jane-rosenstein-azoulay"><span style="color: green;">Dr. Yvonne 
+Rosenstein</span></a>'s lab. We are studying the process by which erythrocytes precursors lose their nucleus to become mature red blood cells. I am so excited to see what can we learn of this!  
+
+Also, I am a former missionary for <a href="https://www.churchofjesuschrist.org/"><span style="color: green;">The Church of Jesus Christ of Latter-day Saints</span></a>. During my full-time mission, I learned to serve others and to strive to be a better person. I also developed many life skills, such as leadership, teamwork, and problem-solving.  
+
+Apart from my academic and personal life, I enjoy practicing Mexican folklore dance, swimming, and spending time with my family and friends. I also like to read and learn about new topics.   
+
+## Key Skills
+
+- **Time Management**: I have developed the ability to manage my time efficiently, which has allowed me to balance my academic and personal life.
+- **Goal setting**: I have learned to set short-term and long-term goals, which has helped me to stay focused and motivated.  
+- **Problem-solving**: I have developed strong problem-solving skills, which have helped me to overcome challenges in my academic and personal life.  
+- **Leadership**: I have experience leading teams, which has helped me to learn how to help others to accomplish goals as a team.  
+- **Teamwork**: I have experience working in teams, which has helped me to develop strong communication and collaboration skills.  
+- **Adaptability**: I have learned to adapt to new situations and environments, which has helped me to grow and develop as a person.  
+
+## Technical Skills
+- **Programming Languages**: Python, R, Bash  
+- **Bioinformatics Tools**: BLAST, MUSCLE, Clustal Omega, etc.  
+- **Languages**: Spanish (Native), English (B1), French (A2)
 
 
 ## Education
 
-**Center for Genomics Sciences, UNAM** | Mexico, Morelos  
-Undergraduate in Genomics Sciences | August 2021 - Present  
+**Undergraduate Student in Genomic Sciences** | <a href="https://www.lcg.unam.mx/">
+<span style="color: green;">_National Autonomous University of Mexico_</span></a>  
+August 2021 - Present  
 
-**National High School No. 8** | Mexico, Mexico City  
-High School | August 2018 - July 2021
+**High School** | <a href="https://prepa8.unam.mx/p8/">
+<span style="color: green;">_National High School "Miguel E. Schulz", UNAM_</span></a>   
+August 2018 - July 2021
 
 
-## Experience
+## Research Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+**Institute of Biotechnology (IBt), Morelos, Mexico**  
+<a href="https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-medicina-molecular-y-bioprocesos-52/grupo-de-la-dra-yvonne-rosenstein-14"><span style="color: green;">Yvonne Rosenstein-Azoulay Lab</span></a> | Undergraduate researcher | December 2024 - Present
