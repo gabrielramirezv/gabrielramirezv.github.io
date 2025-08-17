@@ -2,62 +2,99 @@
 title: "Gabriel Ramirez-Vilchis"
 image: "gabrielramirezv_circle.jpg"
 links:
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1159px-Bluesky_Logo.svg.png" width=30 height=30>
-    url: "https://bsky.app/profile/gabrielramv.bsky.social"
-  - label: <img src="https://freepnglogo.com/images/all_img/1725374683twitter-x-logo.png" width=30 height=30>
-    url: "https://x.com/GabrielRamV"
   - label: <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=30 height=30>
     url: "https://github.com/gabrielramirezv"
-  - label: <img src="https://cdn-icons-png.flaticon.com/512/5968/5968776.png" width=30 height=30>
-    url: "https://www.instagram.com/gaboram_2810"
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width=30 height=30>
+    url: "https://www.linkedin.com/in/gabrielramirezv"   # (si tienes, cámbialo; si no, elimínalo)
   - label: <img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" width=30 height=30>
     url: "mailto:gramirez@lcg.unam.mx"
 output:
   postcards::trestles
 ---
- 
-## About me  
-
-I am an undergraduate student in <a href="https://www.lcg.unam.mx/">
-<span style="color: green;">Genomic Sciences</span></a> at the <a 
-href="https://www.unam.mx/"><span style="color: green;">National Autonomous 
-University of Mexico (UNAM)</span></a>. I am interested in immunology, viruses 
-and bioinformatics.  
-
-Currently, I am doing research about erythrocytes differentiation at <a href="https://www.ibt.unam.mx/perfil/3283/dra-yvonne-jane-rosenstein-azoulay"><span style="color: green;">Dr. Yvonne 
-Rosenstein</span></a>'s lab. We are studying the process by which erythrocytes precursors lose their nucleus to become mature red blood cells. I am so excited to see what can we learn of this!  
-
-Also, I am a former missionary for <a href="https://www.churchofjesuschrist.org/"><span style="color: green;">The Church of Jesus Christ of Latter-day Saints</span></a>. During my full-time mission, I learned to serve others and to strive to be a better person. I also developed many life skills, such as leadership, teamwork, and problem-solving.  
-
-Apart from my academic and personal life, I enjoy practicing Mexican folklore dance, swimming, and spending time with my family and friends. I also like to read and learn about new topics.   
-
-## Key Skills
-
-- **Time Management**: I have developed the ability to manage my time efficiently, which has allowed me to balance my academic and personal life.
-- **Goal setting**: I have learned to set short-term and long-term goals, which has helped me to stay focused and motivated.  
-- **Problem-solving**: I have developed strong problem-solving skills, which have helped me to overcome challenges in my academic and personal life.  
-- **Leadership**: I have experience leading teams, which has helped me to learn how to help others to accomplish goals as a team.  
-- **Teamwork**: I have experience working in teams, which has helped me to develop strong communication and collaboration skills.  
-- **Adaptability**: I have learned to adapt to new situations and environments, which has helped me to grow and develop as a person.  
-
-## Technical Skills
-- **Programming Languages**: Python, R, Bash  
-- **Bioinformatics Tools**: BLAST, MUSCLE, Clustal Omega, etc.  
-- **Languages**: Spanish (Native), English (B1), French (A2)
 
 
-## Education
+## Available for a 12-month research placement (Aug 2026 – Jul 2027)  
+**Interests:** Immunology · Virology ·Neuroscience · Bioinformatics  
 
-**Undergraduate Student in Genomic Sciences** | <a href="https://www.lcg.unam.mx/">
-<span style="color: green;">_National Autonomous University of Mexico_</span></a>  
-August 2021 - Present  
+---
 
-**High School** | <a href="https://prepa8.unam.mx/p8/">
-<span style="color: green;">_National High School "Miguel E. Schulz", UNAM_</span></a>   
-August 2018 - July 2021
+## Research Interests  
 
+I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
+My main interests include:  
 
-## Research Experience
+- **Immunology** and host–virus interactions  
+- **Erythropoiesis** and red blood cell development  
+- **Bioinformatics & Genomics**, especially RNA-seq and computational analysis  
+
+I aim to integrate experimental biology with computational approaches to better understand how cellular and viral processes are regulated at the molecular level.  
+
+---
+
+## Research Experience  
+
+**Lieber Institute for Brain Development (LIBD), Baltimore, MD, USA**  
+*[Leonardo Collado-Torres Lab](https://lcolladotor.github.io/)* | *Research Intern (Remote)*  
+*June 2025 – Present*  
+
+- Analysis of transcriptomic data with R/Bioconductor.  
+- Development of reproducible pipelines for large-scale data analysis.  
+
 
 **Institute of Biotechnology (IBt), Morelos, Mexico**  
-<a href="https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-medicina-molecular-y-bioprocesos-52/grupo-de-la-dra-yvonne-rosenstein-14"><span style="color: green;">Yvonne Rosenstein-Azoulay Lab</span></a> | Undergraduate researcher | December 2024 - Present
+*[Yvonne Rosenstein-Azoulay Lab](https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-medicina-molecular-y-bioprocesos-52/grupo-de-la-dra-yvonne-rosenstein-14)* | *Research Intern*  
+*Dec 2024 – Present*  
+
+- Studying the process of nuclear extrusion during erythroid differentiation.  
+- Laboratory techniques in molecular biology and microscopy.  
+
+
+**Center for Genomic Sciences (CCG), Morelos, Mexico**  
+*[FreyreLab](http://freyrelab.org/en/)* | *Undergraduate Student*  
+*Dec 2021 - Jul 2022*
+
+- Learned Python for data analysis.  
+- Parsed data from HTML files and performed basic analyses.  
+
+
+---
+
+## Teaching Experience  
+
+**National Autonomous University of Mexico (UNAM)**  
+*[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)* | *Teaching Assistant*  
+*Aug 2025 – Present*  
+
+- Assisting in the course _"Introduction to Probability and Statistics"_.  
+
+---
+
+## Education  
+
+**B.Sc. in Genomic Sciences (ongoing)**  
+_[National Autonomous University of Mexico (UNAM)](https://www.lcg.unam.mx/)_  
+*Aug 2021 – Present*  
+
+**High School**  
+_[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_  
+*Aug 2018 – Jul 2021*  
+
+---
+
+## Skills  
+
+- **Programming & Data Analysis**: Python, R, Bash, C, Perl    
+- **Bioinformatics**: BLAST, Clustal Omega, MUSCLE, RNA-seq preprocessing (FastQC, STAR, DESeq2)  
+- **Colaborative Tools**: Git, GitHub, Jupyter Notebooks  
+- **Molecular Biology**: Microscopy, flow cytometry (basic level)  
+- **Languages**: Spanish (Native), English (C1), French (A2)  
+- **Soft Skills**: Teamwork, problem-solving, adaptability, communication  
+
+---
+
+## Beyond the Lab  
+
+Outside of research, I enjoy practicing **Mexican folklore dance**, swimming, and spending time with family and friends.  
+I also served as a full-time missionary for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), where I developed leadership, teamwork, and problem-solving skills.  
+
+---
