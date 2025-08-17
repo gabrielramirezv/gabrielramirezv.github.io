@@ -2,23 +2,29 @@
 title: "Gabriel Ramirez-Vilchis"
 image: "gabrielramirezv_circle.jpg"
 links:
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width=30 height=30>
+    url: "https://orcid.org/0009-0002-0386-7630"
   - label: <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=30 height=30>
     url: "https://github.com/gabrielramirezv"
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width=30 height=30>
-    url: "https://www.linkedin.com/in/gabrielramirezv"   # (si tienes, cámbialo; si no, elimínalo)
-  - label: <img src="https://imaginethatcreative.net/blog/wp-content/uploads/2023/06/2250206.png" width=30 height=30>
-    url: "mailto:gramirez@lcg.unam.mx"
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055" width=30 height=30>
+    url: "https://www.linkedin.com/in/gabrielramirezvilchis/"   
+  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/640px-Bluesky_Logo.svg.png" width=30 height=30>
+    url: "https://bsky.app/profile/gabrielramirezv.bsky.social"
+  - label: <img src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png" width=30 height=30>
+    url: "https://x.com/GabrielRamV"
+  - label: <img src="https://img.pikbest.com/png-images/20241009/modern-email-icon-vector-design-artwork_10942401.png!sw800" width=30 height=30>
+    url: "mailto:gabriel.ramirez.vilchis@gmail.com"  
 output:
   postcards::trestles
 ---
 
 
-## Available for a 12-month research placement (Aug 2026 – Jul 2027)  
-**Interests:** Immunology · Virology ·Neuroscience · Bioinformatics  
+## _Available for a 12-month research placement (Aug 2026 – Jul 2027)_  
+**Interests:** Immunology · Virology · Neuroscience · Bioinformatics  
 
 ---
 
-## Research Interests  
+## About me    
 
 I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
 My main interests include:  
@@ -31,11 +37,22 @@ I aim to integrate experimental biology with computational approaches to better 
 
 ---
 
-## Research Experience  
+## Skills  
+
+- **Programming & Data Analysis**: Python, R, Bash, C, Perl    
+- **Bioinformatics**: BLAST, Clustal Omega, MUSCLE, RNA-seq preprocessing (FastQC, STAR, DESeq2)  
+- **Collaborative Tools**: Git, GitHub, Jupyter Notebooks  
+- **Molecular Biology**: Microscopy, flow cytometry (basic level)  
+- **Languages**: Spanish (Native), English (C1), French (A2)  
+- **Soft Skills**: Teamwork, problem-solving, adaptability, communication  
+
+---
+
+## Research Experiences  
 
 **Lieber Institute for Brain Development (LIBD), Baltimore, MD, USA**  
 *[Leonardo Collado-Torres Lab](https://lcolladotor.github.io/)* | *Research Intern (Remote)*  
-*June 2025 – Present*  
+*Jun 2025 – Present*  
 
 - Analysis of transcriptomic data with R/Bioconductor.  
 - Development of reproducible pipelines for large-scale data analysis.  
@@ -53,19 +70,34 @@ I aim to integrate experimental biology with computational approaches to better 
 *[FreyreLab](http://freyrelab.org/en/)* | *Undergraduate Student*  
 *Dec 2021 - Jul 2022*
 
-- Learned Python for data analysis.  
-- Parsed data from HTML files and performed basic analyses.  
+- Learning Python for data analysis.  
+- Parsing data from HTML files and performed basic analyses.  
 
 
 ---
 
-## Teaching Experience  
+## Teaching Experiences  
 
 **National Autonomous University of Mexico (UNAM)**  
 *[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)* | *Teaching Assistant*  
 *Aug 2025 – Present*  
 
 - Assisting in the course _"Introduction to Probability and Statistics"_.  
+
+---
+
+## Publications & Presentations  
+
+- **Role of CD43 in erythroid differentiation**  
+  Poster presented at **_XXVI National Congress of Immunology_, Chihuahua, Mexico**, 2025  
+  **Authors:** Gabriel Ramírez-Vilchis, Samantha Carpio-Torres, Ángel Flores-Alcantar, Erika Melchy-Pérez, Verónica Rojo-León & Yvonne Rosenstein.  
+
+<div style="text-align: center;">
+  <a href="erythropoiesis_poster.pdf" target="_blank">
+    <img src="erythropoiesis_poster_thumb.png" alt="Poster Thumbnail" width="300"/>
+  </a>
+</div>
+
 
 ---
 
@@ -81,14 +113,45 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ---
 
-## Skills  
+## Courses & Training  
 
-- **Programming & Data Analysis**: Python, R, Bash, C, Perl    
-- **Bioinformatics**: BLAST, Clustal Omega, MUSCLE, RNA-seq preprocessing (FastQC, STAR, DESeq2)  
-- **Colaborative Tools**: Git, GitHub, Jupyter Notebooks  
-- **Molecular Biology**: Microscopy, flow cytometry (basic level)  
-- **Languages**: Spanish (Native), English (C1), French (A2)  
-- **Soft Skills**: Teamwork, problem-solving, adaptability, communication  
+- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    
+
+---
+
+## Memberships & Affiliations  
+
+- Student member, _Mexican Society for Immunology (SMI)_   
+  
+<div style="text-align: center;">
+    <img src="smi.png" width="300"/>
+</div>
+
+---
+
+## Awards & Recognitions
+- **3rd Place – XXIX University Science, Technology and Innovation Fair** | UNAM, 2021  
+  Project: *Observing and analyzing human nonverbal communication: smiles as a form of communication*  
+  [View project PDF](ScienceFair2021.pdf)  
+- **1st Place – Inter-preparatories Chemistry Contest** | National High School 8, UNAM, 2020  
+- **3rd Place – University Knowledge Olympiad (Mathematics)** | UNAM, 2019  
+- **2nd Place – Inter-preparatories Math Contest** | National High School, UNAM, 2019
+
+---
+
+## GitHub Activity  
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielramirezv&show_icons=true&theme=default" alt="GitHub Stats"/>
+</div>
+
+
+---
+
+## Academic Posts (BlueSky)
+
+<script async src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" type="module"></script>
+<bsky-embed username="gabrielramirezv.bsky.social" limit="2"></bsky-embed>  
 
 ---
 
