@@ -124,7 +124,9 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 - Student member, _Mexican Society for Immunology (SMI)_   
   
 <div style="text-align: center;">
-    <img src="smi.png" width="300"/>
+  <a href="smi.png" target="_blank">
+    <img src="smi.png" alt="Membership Thumbnail" width="500"/>
+  </a>
 </div>
 
 ---
