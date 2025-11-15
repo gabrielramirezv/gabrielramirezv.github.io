@@ -2,17 +2,17 @@
 title: "Gabriel Ramirez-Vilchis"
 image: "gabrielramirezv_circle.jpg"
 links:
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" width=30 height=30>
+  - label: <img src="ORCID_iD.svg" width=30 height=30>
     url: "https://orcid.org/0009-0002-0386-7630"
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=30 height=30>
+  - label: <img src="github.jpg" width=30 height=30>
     url: "https://github.com/gabrielramirezv"
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png?20140125013055" width=30 height=30>
+  - label: <img src="LinkedIn_icon.svg" width=30 height=30>
     url: "https://www.linkedin.com/in/gabrielramirezvilchis/"   
-  - label: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/640px-Bluesky_Logo.svg.png" width=30 height=30>
+  - label: <img src="Bluesky_Logo.svg" width=30 height=30>
     url: "https://bsky.app/profile/gabrielramirezv.bsky.social"
-  - label: <img src="https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png" width=30 height=30>
+  - label: <img src="X_icon.png" width=30 height=30>
     url: "https://x.com/GabrielRamV"
-  - label: <img src="https://img.pikbest.com/png-images/20241009/modern-email-icon-vector-design-artwork_10942401.png!sw800" width=30 height=30>
+  - label: <img src="Gmail_icon.webp" width=30 height=25>
     url: "mailto:gabriel.ramirez.vilchis@gmail.com"  
 output:
   postcards::trestles
@@ -116,9 +116,11 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## Courses & Training  
 
-- **Fundamental Concepts in Immunology** - *Mexican Society for Immunology (SMI), 2024*  [🔗 View Certificate (PDF)](ImmunologyCourse2024.pdf)  
+- **Fundamental Concepts in Immunology** - *Mexican Society for Immunology (SMI), 2024*  
+[🔗 View Certificate (PDF)](ImmunologyCourse2024.pdf)  
 
-- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    [🔗 View Certificate (PDF)](FlowCytometry2025.pdf)  
+- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    
+[🔗 View Certificate (PDF)](FlowCytometry2025.pdf)   
 
 ---
 
@@ -137,7 +139,7 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 ## Awards & Recognitions
 - **3rd Place – XXIX University Science, Technology and Innovation Fair** | UNAM, 2021  
   Project: *Observing and analyzing human nonverbal communication: smiles as a form of communication*  
-  [View project PDF](ScienceFair2021.pdf)  
+  [🔗 View Project (PDF)](ScienceFair2021.pdf)  
 - **1st Place – Inter-preparatories Chemistry Contest** | National High School 8, UNAM, 2020  
 - **3rd Place – University Knowledge Olympiad (Mathematics)** | UNAM, 2019  
 - **2nd Place – Inter-preparatories Math Contest** | National High School, UNAM, 2019
@@ -146,10 +148,35 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## GitHub Activity  
 
+### Stats  
+
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielramirezv&show_icons=true&theme=default" alt="GitHub Stats"/>
-</div>
+</div>  
 
+### Top Languages   
+
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv&layout=compact&theme=default" alt="GitHub Stats"/>
+</div> 
+
+### Contribution Streak  
+
+<div style="text-align: center;">
+  <img src="https://streak-stats.demolab.com/?user=gabrielramirezv\&theme=default" alt="GitHub Stats"/>
+</div>   
+
+### Tools & Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)  
 
 ---
 
@@ -162,7 +189,14 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## Beyond the Lab  
 
-Outside of research, I enjoy practicing **Mexican folklore dance**, swimming, and spending time with family and friends.  
-I also served as a full-time missionary for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), where I developed leadership, teamwork, and problem-solving skills.  
+Outside of research, I enjoy practicing **Mexican folklore dance**, **swimming**, and spending time with **family and friends**.  
+I also served as a **full-time missionary** for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), where I developed leadership, teamwork, and problem-solving skills.  
+
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+  <img src="folklore_dance.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="lcg_friends.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="lcg_friends2.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="fulltime_mission.jpeg" width="240" style="border-radius: 10px;"/>
+</div>
 
 ---
