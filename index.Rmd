@@ -20,7 +20,7 @@ output:
 
 
 ## _Available for a 12-month research placement (Aug 2026 – Jul 2027)_  
-**Interests:** Immunology · Virology · Neuroscience · Bioinformatics  
+**Interests:** Immunology · Virology · Neuroscience · Machine Learning    
 
 ---
 
@@ -91,10 +91,11 @@ I aim to integrate experimental biology with computational approaches to better 
 - **Role of CD43 in erythroid differentiation**  
   Poster presented at **_XXVI National Congress of Immunology_, Chihuahua, Mexico**, 2025  
   **Authors:** Gabriel Ramírez-Vilchis, Samantha Carpio-Torres, Ángel Flores-Alcantar, Erika Melchy-Pérez, Verónica Rojo-León & Yvonne Rosenstein.  
+  [🔗 View Certificate (PDF)](Poster_constancia_Chihuahua2025.pdf)  
 
 <div style="text-align: center;">
   <a href="erythropoiesis_poster.pdf" target="_blank">
-    <img src="erythropoiesis_poster_thumb.png" alt="Poster Thumbnail" width="300"/>
+    <img src="erythropoiesis_poster_thumb.png" alt="Poster Thumbnail" width="250"/>
   </a>
 </div>
 
@@ -115,7 +116,9 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## Courses & Training  
 
-- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    
+- **Fundamental Concepts in Immunology** - *Mexican Society for Immunology (SMI), 2024*  [🔗 View Certificate (PDF)](ImmunologyCourse2024.pdf)  
+
+- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    [🔗 View Certificate (PDF)](FlowCytometry2025.pdf)  
 
 ---
 
@@ -125,7 +128,7 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
   
 <div style="text-align: center;">
   <a href="smi.png" target="_blank">
-    <img src="smi.png" alt="Membership Thumbnail" width="500"/>
+    <img src="smi.png" alt="Membership Thumbnail" width="400"/>
   </a>
 </div>
 
