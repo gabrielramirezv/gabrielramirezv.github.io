@@ -67,7 +67,7 @@ I aim to integrate experimental biology with computational approaches to better 
 
 
 **Center for Genomic Sciences (CCG), Morelos, Mexico**  
-*[FreyreLab](http://freyrelab.org/en/)* | *Undergraduate Student*  
+*[FreyreLab](http://freyrelab.org/en/)* | *Research Intern*  
 *Dec 2021 - Jul 2022*
 
 - Learning Python for data analysis.  
@@ -79,25 +79,24 @@ I aim to integrate experimental biology with computational approaches to better 
 ## Teaching Experiences  
 
 **National Autonomous University of Mexico (UNAM)**  
-*[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)* | *Teaching Assistant*  
+*[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)* | *Teaching Assistant Professor*  
 *Aug 2025 – Present*  
 
 - Assisting in the course _"Introduction to Probability and Statistics"_.  
+- Assisting in the course _"Programming in Python"_.  
 
 ---
 
 ## Publications & Presentations  
 
+- **The role of CD43 sialomucin in erythrocyte differentiation**  
+  Conference presented at **_13th Week of Science and Scientific Education, National High School "Erasmo Castellanos Quinto", UNAM, Mexico City, Mexico_**, 2025  
+  [🔗 View Invitation Letter (PDF)](ScienceWeek2025.pdf)  
+
 - **Role of CD43 in erythroid differentiation**  
   Poster presented at **_XXVI National Congress of Immunology_, Chihuahua, Mexico**, 2025  
   **Authors:** Gabriel Ramírez-Vilchis, Samantha Carpio-Torres, Ángel Flores-Alcantar, Erika Melchy-Pérez, Verónica Rojo-León & Yvonne Rosenstein.  
   [🔗 View Certificate (PDF)](Poster_constancia_Chihuahua2025.pdf)  
-
-<div style="text-align: center;">
-  <a href="erythropoiesis_poster.pdf" target="_blank">
-    <img src="erythropoiesis_poster_thumb.png" alt="Poster Thumbnail" width="250"/>
-  </a>
-</div>
 
 
 ---
@@ -116,23 +115,21 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## Courses & Training  
 
+- **Differential Equations** - *National Autonomous University of Mexico (UNAM), 2024*  
+
 - **Fundamental Concepts in Immunology** - *Mexican Society for Immunology (SMI), Mexico, 2025*  
 [🔗 View Certificate (PDF)](ImmunologyCourse2025.pdf)  
 
 - **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    
-[🔗 View Certificate (PDF)](FlowCytometry2025.pdf)   
+
+- **Biosafety Course** - *Institute of Biotechnology (IBt), UNAM, 2024*  
 
 ---
 
 ## Memberships & Affiliations  
 
-- Student member, _Mexican Society for Immunology (SMI)_   
-  
-<div style="text-align: center;">
-  <a href="smi.png" target="_blank">
-    <img src="smi.png" alt="Membership Thumbnail" width="400"/>
-  </a>
-</div>
+- Student member, _Mexican Society for Immunology (SMI)_, 2025  
+[🔗 View Membership Certificate (PNG)](smi.png)  
 
 ---
 
