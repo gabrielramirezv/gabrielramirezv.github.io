@@ -18,28 +18,26 @@ output:
   postcards::trestles
 ---
 
-
-## _Available for a 12-month research placement (Aug 2026 – Jul 2027)_  
-**Interests:** Immunology · Virology · Neuroscience · Machine Learning    
-
----
-
 ## About me    
 
-I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
+I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the 
+[National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
+
 My main interests include:  
 
 - **Immunology** and host–virus interactions  
 - **Erythropoiesis** and red blood cell development  
-- **Bioinformatics & Genomics**, especially RNA-seq and computational analysis  
+- **Neuroscience**, particularly neurodevelopment and neurodegenerative diseases  
+- **Bioinformatics & Genomics**, especially RNA-seq and machine learning applications in biology   
 
-I aim to integrate experimental biology with computational approaches to better understand how cellular and viral processes are regulated at the molecular level.  
+I aim to integrate experimental biology with computational approaches to better understand how cellular 
+processes are regulated at the molecular level.  
 
 ---
 
 ## Skills  
 
-- **Programming & Data Analysis**: Python, R, Bash, C, Perl    
+- **Software Development & Data Analysis**: Python, R, Bash, C, Perl    
 - **Bioinformatics**: BLAST, Clustal Omega, MUSCLE, RNA-seq preprocessing (FastQC, STAR, DESeq2)  
 - **Collaborative Tools**: Git, GitHub, Jupyter Notebooks  
 - **Molecular Biology**: Microscopy, flow cytometry (basic level)  
@@ -79,8 +77,8 @@ I aim to integrate experimental biology with computational approaches to better 
 ## Teaching Experiences  
 
 **National Autonomous University of Mexico (UNAM)**  
-*[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)* | *Teaching Assistant Professor*  
-*Aug 2025 – Present*  
+_[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)_ | _Teaching Assistant_  
+_Aug 2025 – Present_  
 
 - Assisting in the course _"Introduction to Probability and Statistics"_.  
 - Assisting in the course _"Programming in Python"_.  
@@ -115,14 +113,16 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ## Courses & Training  
 
-- **Differential Equations** - *National Autonomous University of Mexico (UNAM), 2024*  
+- **Creating Business Opportunities in the Biosciences** - _National Autonomous University of Mexico (UNAM), 2026_  
 
-- **Fundamental Concepts in Immunology** - *Mexican Society for Immunology (SMI), Mexico, 2025*  
+- **Differential Equations** - _National Autonomous University of Mexico (UNAM), 2025_  
+
+- **Fundamental Concepts in Immunology** - _Mexican Society for Immunology (SMI), Mexico, 2025_  
 [🔗 View Certificate (PDF)](ImmunologyCourse2025.pdf)  
 
-- **Flow Cytometry for Leukemia Immunophenotyping** — *National Cytometry Laboratory (LabNalCit), Mexico, 2025*    
+- **Flow Cytometry for Leukemia Immunophenotyping** — _National Cytometry Laboratory (LabNalCit), Mexico, 2025_  
 
-- **Biosafety Course** - *Institute of Biotechnology (IBt), UNAM, 2024*  
+- **Biosafety Course** - _Institute of Biotechnology (IBt), UNAM, 2024_  
 
 ---
 
