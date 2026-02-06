@@ -143,26 +143,6 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 
 ---
 
-## GitHub Activity  
-
-### Stats  
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielramirezv&show_icons=true&theme=default" alt="GitHub Stats"/>
-</div>  
-
-### Top Languages   
-
-<div style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielramirezv&layout=compact&theme=default" alt="GitHub Stats"/>
-</div> 
-
-### Contribution Streak  
-
-<div style="text-align: center;">
-  <img src="https://streak-stats.demolab.com/?user=gabrielramirezv\&theme=default" alt="GitHub Stats"/>
-</div>   
-
 ### Tools & Technologies  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r\&logoColor=white)
