@@ -1,0 +1,161 @@
+---
+title: "Gabriel Ramírez-Vilchis"
+
+---
+
+I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the 
+[National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
+
+My main interests include:  
+
+- **Immunology** and host–virus interactions  
+- **Erythropoiesis** and red blood cell development  
+- **Neuroscience**, particularly neurodevelopment and neurodegenerative diseases  
+- **Bioinformatics & Genomics**, especially RNA-seq and machine learning applications in biology   
+
+I aim to integrate experimental biology with computational approaches to better understand how cellular 
+processes are regulated at the molecular level.  
+
+
+
+## Skills  
+
+- **Software Development & Data Analysis**: Python, R, Bash, C, Perl    
+- **Bioinformatics**: BLAST, Clustal Omega, MUSCLE, RNA-seq preprocessing (FastQC, STAR, DESeq2)  
+- **Collaborative Tools**: Git, GitHub, Jupyter Notebooks  
+- **Molecular Biology**: Microscopy, flow cytometry (basic level)  
+- **Languages**: Spanish (Native), English (C1), French (A2)  
+- **Soft Skills**: Teamwork, problem-solving, adaptability, communication  
+
+
+
+## Research Experiences  
+
+**Lieber Institute for Brain Development (LIBD), Baltimore, MD, USA**  
+*[Leonardo Collado-Torres Lab](https://lcolladotor.github.io/)* | *Research Intern (Remote)*  
+*Jun 2025 – Present*  
+
+- Analysis of transcriptomic data with R/Bioconductor.  
+- Development of reproducible pipelines for large-scale data analysis.  
+
+
+**Institute of Biotechnology (IBt), Morelos, Mexico**  
+*[Yvonne Rosenstein-Azoulay Lab](https://www.ibt.unam.mx/agrupacion/direccion-22/departamento-de-medicina-molecular-y-bioprocesos-52/grupo-de-la-dra-yvonne-rosenstein-14)* | *Research Intern*  
+*Dec 2024 – Present*  
+
+- Studying the process of nuclear extrusion during erythroid differentiation.  
+- Laboratory techniques in molecular biology and microscopy.  
+
+
+**Center for Genomic Sciences (CCG), Morelos, Mexico**  
+*[FreyreLab](http://freyrelab.org/en/)* | *Research Intern*  
+*Dec 2021 - Jul 2022*
+
+- Learning Python for data analysis.  
+- Parsing data from HTML files and performed basic analyses.  
+
+
+
+
+## Teaching Experiences  
+
+**National Autonomous University of Mexico (UNAM)**  
+_[Undergraduate Program in Genomic Sciences (LCG)](https://www.lcg.unam.mx/)_ | _Teaching Assistant_  
+_Aug 2025 – Present_  
+
+- Assisting in the course _"Introduction to Probability and Statistics"_.  
+- Assisting in the course _"Programming in Python"_.  
+
+
+
+## Publications & Presentations  
+
+- **The role of CD43 sialomucin in erythrocyte differentiation**  
+  Conference presented at **_13th Week of Science and Scientific Education, National High School "Erasmo Castellanos Quinto", UNAM, Mexico City, Mexico_**, 2025  
+  [🔗 View Invitation Letter (PDF)](ScienceWeek2025.pdf)  
+
+- **Role of CD43 in erythroid differentiation**  
+  Poster presented at **_XXVI National Congress of Immunology_, Chihuahua, Mexico**, 2025  
+  **Authors:** Gabriel Ramírez-Vilchis, Samantha Carpio-Torres, Ángel Flores-Alcantar, Erika Melchy-Pérez, Verónica Rojo-León & Yvonne Rosenstein.  
+  [🔗 View Certificate (PDF)](Poster_constancia_Chihuahua2025.pdf)  
+
+
+
+
+## Education  
+
+**B.Sc. in Genomic Sciences (ongoing)**  
+_[National Autonomous University of Mexico (UNAM)](https://www.lcg.unam.mx/)_  
+*Aug 2021 – Present*  
+
+**High School**  
+_[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_  
+*Aug 2018 – Jul 2021*  
+
+
+
+## Courses & Training  
+
+- **Creating Business Opportunities in the Biosciences** - _National Autonomous University of Mexico (UNAM), 2026_  
+
+- **Differential Equations** - _National Autonomous University of Mexico (UNAM), 2025_  
+
+- **Fundamental Concepts in Immunology** - _Mexican Society for Immunology (SMI), Mexico, 2025_  
+[🔗 View Certificate (PDF)](ImmunologyCourse2025.pdf)  
+
+- **Flow Cytometry for Leukemia Immunophenotyping** — _National Cytometry Laboratory (LabNalCit), Mexico, 2025_  
+
+- **Biosafety Course** - _Institute of Biotechnology (IBt), UNAM, 2024_  
+
+
+
+## Memberships & Affiliations  
+
+- Student member, _Mexican Society for Immunology (SMI)_, 2025  
+[🔗 View Membership Certificate (PNG)](smi.png)  
+
+
+
+## Awards & Recognitions
+- **3rd Place – XXIX University Science, Technology and Innovation Fair** | UNAM, 2021  
+  Project: *Observing and analyzing human nonverbal communication: smiles as a form of communication*  
+  [🔗 View Project (PDF)](ScienceFair2021.pdf)  
+- **1st Place – Inter-preparatories Chemistry Contest** | National High School 8, UNAM, 2020  
+- **3rd Place – University Knowledge Olympiad (Mathematics)** | UNAM, 2019  
+- **2nd Place – Inter-preparatories Math Contest** | National High School, UNAM, 2019
+
+
+
+### Tools & Technologies  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)  
+
+
+
+## Academic Posts (BlueSky)
+
+<script async src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" type="module"></script>
+<bsky-embed username="gabrielramirezv.bsky.social" limit="2"></bsky-embed>  
+
+
+
+## Beyond the Lab  
+
+Outside of research, I enjoy practicing **Mexican folklore dance**, **swimming**, and spending time with **family and friends**.  
+I also served as a **full-time missionary** for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), where I developed leadership, teamwork, and problem-solving skills.  
+
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
+  <img src="folklore_dance.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="lcg_friends.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="lcg_friends2.jpeg" width="240" style="border-radius: 10px;"/>
+  <img src="fulltime_mission.jpeg" width="240" style="border-radius: 10px;"/>
+</div>
+
