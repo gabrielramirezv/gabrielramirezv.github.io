@@ -152,10 +152,4 @@ _[National High School "Miguel E. Schulz", UNAM](https://prepa8.unam.mx/p8/)_
 Outside of research, I enjoy practicing **Mexican folklore dance**, **swimming**, and spending time with **family and friends**.  
 I also served as a **full-time missionary** for [The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/), where I developed leadership, teamwork, and problem-solving skills.  
 
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-  <img src="folklore_dance.jpeg" width="240" style="border-radius: 10px;"/>
-  <img src="lcg_friends.jpeg" width="240" style="border-radius: 10px;"/>
-  <img src="lcg_friends2.jpeg" width="240" style="border-radius: 10px;"/>
-  <img src="fulltime_mission.jpeg" width="240" style="border-radius: 10px;"/>
-</div>
 
