@@ -1,42 +1,42 @@
 website:
   navbar:
     left:
-      - href: es/index.qmd
+      - href: /es/index.qmd
         text: Inicio
-      - href: es/research.qmd
+      - href: /es/research.qmd
         text: Investigación
-      - href: es/publications.qmd
+      - href: /es/publications.qmd
         text: Publicaciones
-      - href: es/teaching.qmd
+      - href: /es/teaching.qmd
         text: Docencia
       - text: "Blog"
         menu:
-          - href: es/blog/science.qmd
+          - href: /es/blog/science.qmd
             text: "Ciencia y Código"
-          - href: es/blog/books.qmd
+          - href: /es/blog/books.qmd
             text: "Reseñas de Libros"
       - text: "Más"
         menu:
-          - href: es/presentations.qmd
+          - href: /es/presentations.qmd
             text: "Presentaciones y Congresos"
-          - href: es/training.qmd
+          - href: /es/training.qmd
             text: "Cursos y Capacitación"
-          - href: es/awards.qmd
+          - href: /es/awards.qmd
             text: "Premios y Reconocimientos"
-          - href: es/memberships.qmd
+          - href: /es/memberships.qmd
             text: "Afiliaciones"
-          - href: es/beyond.qmd
+          - href: /es/beyond.qmd
             text: "Más allá del Lab"
-      - href: es/cv.qmd
+      - href: /es/cv.qmd
         text: CV
     right:
       - icon: globe
         text: "Idioma"
         menu:
           - text: "English"
-            href: ../index.qmd
+            href: /index.qmd         # Vuelve al inicio en la raíz
           - text: "Español"
-            href: index.qmd
+            href: /es/index.qmd      # Se queda en español
       - icon: github
         href: https://github.com/tu-usuario
       - icon: linkedin
