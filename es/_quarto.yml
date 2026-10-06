@@ -1,43 +1,56 @@
+project:
+  type: website
+  output-dir: ../_site/es   # Guarda la salida dentro de _site/es/
+
 website:
+  title: "Gabriel Ramírez-Vilchis"
   navbar:
     left:
-      - href: /es/index.qmd
+      - href: index.qmd
         text: Inicio
-      - href: /es/research.qmd
+      - href: research.qmd
         text: Investigación
-      - href: /es/publications.qmd
+      - href: publications.qmd
         text: Publicaciones
-      - href: /es/teaching.qmd
+      - href: teaching.qmd
         text: Docencia
       - text: "Blog"
         menu:
-          - href: /es/blog/science.qmd
+          - href: blog/science.qmd
             text: "Ciencia y Código"
-          - href: /es/blog/books.qmd
+          - href: blog/books.qmd
             text: "Reseñas de Libros"
       - text: "Más"
         menu:
-          - href: /es/presentations.qmd
+          - href: presentations.qmd
             text: "Presentaciones y Congresos"
-          - href: /es/training.qmd
+          - href: training.qmd
             text: "Cursos y Capacitación"
-          - href: /es/awards.qmd
+          - href: awards.qmd
             text: "Premios y Reconocimientos"
-          - href: /es/memberships.qmd
+          - href: memberships.qmd
             text: "Afiliaciones"
-          - href: /es/beyond.qmd
+          - href: beyond.qmd
             text: "Más allá del Lab"
-      - href: /es/cv.qmd
+      - href: cv.qmd
         text: CV
     right:
       - icon: globe
         text: "Idioma"
         menu:
           - text: "English"
-            href: /index.qmd         # Vuelve al inicio en la raíz
+            href: /index.html
           - text: "Español"
-            href: /es/index.qmd      # Se queda en español
+            href: /es/index.html
       - icon: github
         href: https://github.com/tu-usuario
       - icon: linkedin
         href: https://linkedin.com/in/tu-usuario
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: slate
+    css: ../styles.css
+    toc: true

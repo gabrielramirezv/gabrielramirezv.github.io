@@ -1,8 +1,51 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Gabriel Ramírez-Vilchis"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - text: "Blog"
+        menu:
+          - href: blog/science.qmd
+            text: "Science & Code"
+          - href: blog/books.qmd
+            text: "Book Reviews"
+      - text: "More"
+        menu:
+          - href: presentations.qmd
+            text: "Presentations & Congress"
+          - href: training.qmd
+            text: "Courses & Training"
+          - href: awards.qmd
+            text: "Awards & Recognitions"
+          - href: memberships.qmd
+            text: "Memberships & Affiliations"
+          - href: beyond.qmd
+            text: "Beyond the Lab"
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: globe
+        text: "Language"
+        menu:
+          - text: "English"
+            href: /index.html
+          - text: "Español"
+            href: /es/index.html
+      - icon: github
+        href: https://github.com/tu-usuario
+      - icon: linkedin
+        href: https://linkedin.com/in/tu-usuario
 
 format:
   html:
