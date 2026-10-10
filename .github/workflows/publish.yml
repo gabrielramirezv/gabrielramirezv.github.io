@@ -2,13 +2,23 @@ name: Publish Quarto Website
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ master, main ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -16,28 +26,27 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      # 1. Renderiza la versión principal (Inglés) en _site/
+      # 1. Compila la versión en inglés en _site/
       - name: Render English Site
         run: quarto render
 
-      # 2. Renderiza la versión en Español en _site/es/
+      # 2. Compila la versión en español en _site/es/
       - name: Render Spanish Site
-        run: quarto render --profile es
-
-      # 3. Publica la carpeta _site/ completa a GitHub Pages
-      - name: Ensure gh-pages branch exists
         run: |
-          if ! git ls-remote --exit-code --heads origin gh-pages; then
-            git checkout --orphan gh-pages
-            git reset --hard
-            git commit --allow-empty -m "Initialize gh-pages branch"
-            git push origin gh-pages
-            git checkout "${GITHUB_REF_NAME}"
-          fi
+          cd es
+          quarto render
 
-      - name: Publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
+      # 3. Configura las páginas de GitHub
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # 4. Empaqueta el resultado compilado
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: '_site'
+
+      # 5. Despliega el artefacto en GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
