@@ -50,7 +50,7 @@ website:
 format:
   html:
     theme:
-      light: minty
-      dark: slate
+      light: flatly
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false

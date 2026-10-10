@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Gabriel Ramírez-Vilchis",
     "section": "",
-    "text": "I am an undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM).\nMy main interests include:\nI aim to integrate experimental biology with computational approaches to better understand how cellular processes are regulated at the molecular level."
+    "text": "ORCID  Google Scholar  ResearchGate\n LinkedIn  GitHub  Twitter  Bluesky  Email"
   },
   {
     "objectID": "index.html#skills",
@@ -39,7 +39,7 @@
     "href": "index.html#education",
     "title": "Gabriel Ramírez-Vilchis",
     "section": "Education",
-    "text": "Education\nB.Sc. in Genomic Sciences (ongoing)\nNational Autonomous University of Mexico (UNAM)\nAug 2021 – Present\nHigh School\nNational High School “Miguel E. Schulz”, UNAM\nAug 2018 – Jul 2021"
+    "text": "Education\nB.Sc. in Genomic Sciences (ongoing)\nUniversidad Nacional Autónoma de México (UNAM)\nAug 2021 – Present"
   },
   {
     "objectID": "index.html#courses-training",
@@ -89,5 +89,26 @@
     "title": "Gabriel Ramírez-Vilchis",
     "section": "",
     "text": "Soy estudiante Genomic Sciences at the National Autonomous University of Mexico (UNAM)."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "About Me",
+    "text": "About Me\nI am an undergraduate student in Genomic Sciences at the National Autonomous University of Mexico (UNAM).\nMy main interests include:\n\nImmunology and host–virus interactions\n\nErythropoiesis and red blood cell development\n\nNeuroscience, particularly neurodevelopment and neurodegenerative diseases\n\nBioinformatics & Genomics, especially RNA-seq and machine learning applications in biology\n\nI am guided by humanity, responsability and accountability. I combine my background in biology with bioinformatics skills to understand biological phenomena and address questions about life from different perspectives. I am also developing skills in project and business management, with the goal of connecting scientific knowledge with real-world applications in biotechnology.\nMy commitment is to contribute to impactful research by turning scientific questions into meaningful insights and solutions."
+  },
+  {
+    "objectID": "index.html#current-affiliations",
+    "href": "index.html#current-affiliations",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "Current Affiliations",
+    "text": "Current Affiliations\nCentro de Investigación y de Estudios Avanzados (Cinvestav), Mexico City, Mexico\nHuman Evolutionary and Population Genomics Laboratory | Research Intern\nJul 2026 – Present\nLieber Institute for Brain Development (LIBD), Baltimore, MD, USA\nTranslational Neuroscience Division, Data Science I | Research Consultant (Remote)\nJun 2025 – Present"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nBioinformatics & Data Analysis: Single-cell RNA-seq (Seurat, edgeR, zellkonverter, Azimuth, MapMyCells), Pseudobulk Analysis, Differential Expression.\nProgramming & Scientific Computing: R, Python, Numerical Methods, Algorithms.\nHPC & Tooling: Linux/Bash, Slurm Cluster Environments, Git, GitHub, Conda, Positron IDE.\nDocumentation & Publishing: Quarto, R Markdown, LaTeX."
   }
 ]
