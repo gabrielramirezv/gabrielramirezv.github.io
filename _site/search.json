@@ -110,5 +110,61 @@
     "title": "Gabriel Ramírez-Vilchis",
     "section": "Technical Skills",
     "text": "Technical Skills\n\nBioinformatics & Data Analysis: Single-cell RNA-seq (Seurat, edgeR, zellkonverter, Azimuth, MapMyCells), Pseudobulk Analysis, Differential Expression.\nProgramming & Scientific Computing: R, Python, Numerical Methods, Algorithms.\nHPC & Tooling: Linux/Bash, Slurm Cluster Environments, Git, GitHub, Conda, Positron IDE.\nDocumentation & Publishing: Quarto, R Markdown, LaTeX."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on leveraging single-cell genomics, transcriptomics, and population genetics to understand human genetic diversity, cell-type-specific regulation, and complex traits across diverse populations."
+  },
+  {
+    "objectID": "research.html#current-research-projects",
+    "href": "research.html#current-research-projects",
+    "title": "Research",
+    "section": "Current Research Projects",
+    "text": "Current Research Projects\n\nSingle-Cell Population Genomics\nFocus: Single-cell RNA sequencing (scRNA-seq) analysis of Peripheral Blood Mononuclear Cells (PBMCs) from indigenous populations of Colombia.\n\nGoal: Characterize cell-type-specific transcriptomic variation and immune diversity in underrepresented Latin American populations.\nMethods: Pseudobulk aggregation, cell type annotation (Azimuth, MapMyCells), differential expression (edgeR, Seurat), and quality control workflows in R and Python.\nAffiliation: MorenoLab (Cinvestav / LANGEBIO).\n\n\n\n\nHuman Brain & Neurogenomics\nFocus: Single-cell and spatial transcriptomic workflows in human brain tissue to map neurodevelopmental patterns and cellular diversity.\n\nGoal: Investigate cell-type specific gene expression changes in brain regions and their association with neurodevelopmental contexts.\nMethods: High-throughput single-cell data processing, reproducible workflows, and cluster execution using Slurm HPC environments.\nAffiliation: Lieber Institute for Brain Development."
+  },
+  {
+    "objectID": "research.html#computational-methodological-focus",
+    "href": "research.html#computational-methodological-focus",
+    "title": "Research",
+    "section": "Computational & Methodological Focus",
+    "text": "Computational & Methodological Focus\n\nSingle-Cell Processing: Interoperability between R and Python environments (zellkonverter, SingleCellExperiment, AnnData).\nHigh-Performance Computing: Scalable Slurm job scheduling, Conda environment management, and version control (git/GitHub) for genomic workflows.\nNumerical Methods & Algorithms: Development of custom algorithmic solutions for numerical analysis and data transformation."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "A list of my published papers, preprints, and conference contributions in bioinformatics, single-cell transcriptomics, and population genomics."
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation-preprints",
+    "href": "publications.html#manuscripts-in-preparation-preprints",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation & Preprints",
+    "text": "Manuscripts in Preparation & Preprints\n\n\n\n\n\n\nRepresentative publications and preprints will be added here as they become available.\nYou can also find my complete list of works on Google Scholar or via ORCID."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\nDiupotex, M., Rojo-León, V., Chipres-Naranjo, L. E., Alemán-Navarro, E., Rubio-Blancas, E., Carrillo-Carlos, A., Ramírez-Vilchis, G., López-Acosta, J., Maravillas-Montero, J. L., Rosenstein, Y.\nCD43: recent advances and emerging functions.\nJournal of Leukocyte Biology (2026). DOI: https://doi.org/10.1093/jleuko/qiag084\n[Review Article] [Immunology / Cell Biology]"
+  },
+  {
+    "objectID": "publications.html#conference-abstracts-posters",
+    "href": "publications.html#conference-abstracts-posters",
+    "title": "Publications",
+    "section": "Conference Abstracts & Posters",
+    "text": "Conference Abstracts & Posters\n\nRamírez-Vilchis, G., Carpio-Torres, S., Flores-Alcantar, Á., Melchy-Pérez, E., Rojo-León, V., Rosenstein, Y.\nRole of CD43 in erythroid differentiation.\nXXVI National Congress of Immunology, Chihuahua, Mexico. (2025).\n[Abstract] [Poster]\n[Poster Presentation]"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications-1",
+    "href": "publications.html#peer-reviewed-publications-1",
+    "title": "Publications",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n\n\n\n\n\nRepresentative publications and preprints will be added here as they become available.\nYou can also find my complete list of works on Google Scholar or via ORCID."
   }
 ]

@@ -1,0 +1,34 @@
+---
+title: "Research"
+toc: true
+---
+
+My research focuses on leveraging single-cell genomics, transcriptomics, and population genetics to understand human genetic diversity, cell-type-specific regulation, and complex traits across diverse populations.
+
+---
+
+## Current Research Projects
+
+### Single-Cell Population Genomics
+**Focus:** Single-cell RNA sequencing (scRNA-seq) analysis of Peripheral Blood Mononuclear Cells (PBMCs) from indigenous populations of Colombia.
+
+* **Goal:** Characterize cell-type-specific transcriptomic variation and immune diversity in underrepresented Latin American populations.
+* **Methods:** Pseudobulk aggregation, cell type annotation (Azimuth, MapMyCells), differential expression (edgeR, Seurat), and quality control workflows in R and Python.
+* **Affiliation:** MorenoLab (Cinvestav / LANGEBIO).
+
+---
+
+### Human Brain & Neurogenomics
+**Focus:** Single-cell and spatial transcriptomic workflows in human brain tissue to map neurodevelopmental patterns and cellular diversity.
+
+* **Goal:** Investigate cell-type specific gene expression changes in brain regions and their association with neurodevelopmental contexts.
+* **Methods:** High-throughput single-cell data processing, reproducible workflows, and cluster execution using Slurm HPC environments.
+* **Affiliation:** Lieber Institute for Brain Development.
+
+---
+
+## Computational & Methodological Focus
+
+* **Single-Cell Processing:** Interoperability between R and Python environments (`zellkonverter`, SingleCellExperiment, AnnData).
+* **High-Performance Computing:** Scalable Slurm job scheduling, Conda environment management, and version control (`git`/GitHub) for genomic workflows.
+* **Numerical Methods & Algorithms:** Development of custom algorithmic solutions for numerical analysis and data transformation.

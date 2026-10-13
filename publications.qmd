@@ -1,0 +1,34 @@
+---
+title: "Publications"
+toc: true
+---
+
+A list of my published papers, preprints, and conference contributions in bioinformatics, single-cell transcriptomics, and population genomics.
+
+---
+
+## Peer-Reviewed Publications
+
+* Diupotex, M., Rojo-León, V., Chipres-Naranjo, L. E., Alemán-Navarro, E., Rubio-Blancas, E., Carrillo-Carlos, A., **Ramírez-Vilchis, G.**, López-Acosta, J., Maravillas-Montero, J. L., Rosenstein, Y.  
+  **_CD43: recent advances and emerging functions_**.  
+  *Journal of Leukocyte Biology* (2026). DOI: [https://doi.org/10.1093/jleuko/qiag084](https://doi.org/10.1093/jleuko/qiag084)  
+  `[Review Article]` `[Immunology / Cell Biology]`
+
+---
+
+## Manuscripts in Preparation & Preprints
+
+::: {.callout-note appearance="simple"}
+*Representative publications and preprints will be added here as they become available.*  
+You can also find my complete list of works on [Google Scholar](https://scholar.google.com/citations?hl=en&user=QNL28csAAAAJ){target="_blank"} or via [ORCID](https://orcid.org/0009-0002-0386-7630){target="_blank"}.
+:::
+
+---
+
+## Conference Abstracts & Posters
+
+* **Ramírez-Vilchis, G.**, Carpio-Torres, S., Flores-Alcantar, Á., Melchy-Pérez, E., Rojo-León, V., Rosenstein, Y.     
+  **_Role of CD43 in erythroid differentiation_**.  
+  [**XXVI National Congress of Immunology**](https://sociedadmexicanadeinmunologia.org/xxvi-congreso-nacional-inmunologia/), Chihuahua, Mexico. (2025).  
+  [[Abstract]]() [[Poster]]()  
+  `[Poster Presentation]`
