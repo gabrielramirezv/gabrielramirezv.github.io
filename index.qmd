@@ -6,30 +6,35 @@ about:
   image-width: 10em
   image-shape: round
 ---
-[{{< iconify academicons orcid >}} ORCID](https://orcid.org/){.btn .btn-outline-primary .btn-sm}
-[{{< iconify academicons google-scholar >}} Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary .btn-sm}
-[{{< iconify academicons researchgate >}} ResearchGate](https://www.researchgate.net/profile/Tu-Perfil){.btn .btn-outline-primary .btn-sm}  
-[{{< iconify bi linkedin >}} LinkedIn](https://linkedin.com/in/tu-usuario){.btn .btn-outline-primary .btn-sm}
-[{{< iconify bi github >}} GitHub](https://github.com/tu-usuario){.btn .btn-outline-primary .btn-sm}
-[{{< iconify bi twitter >}} Twitter](https://twitter.com/tu-usuario){.btn .btn-outline-primary .btn-sm}
-[{{< iconify bi bluesky >}} Bluesky](https://bsky.app/profile/tu-usuario){.btn .btn-outline-primary .btn-sm}
-[{{< iconify bi envelope >}} Email](mailto:tu-correo@ejemplo.com){.btn .btn-outline-primary .btn-sm}
+[{{< iconify academicons orcid >}} ORCID](https://orcid.org/0009-0002-0386-7630){.btn .btn-outline-primary .btn-sm}
+[{{< iconify academicons google-scholar >}} Google Scholar](https://scholar.google.com/citations?hl=en&user=QNL28csAAAAJ){.btn .btn-outline-primary .btn-sm}
+[{{< iconify academicons researchgate >}} ResearchGate](https://www.researchgate.net/profile/Gabriel-Ramirez-Vilchis){.btn .btn-outline-primary .btn-sm}  
+[{{< iconify bi linkedin >}} LinkedIn](https://linkedin.com/in/gabrielramirezvilchis){.btn .btn-outline-primary .btn-sm}
+[{{< iconify bi github >}} GitHub](https://github.com/gabrielramirezv){.btn .btn-outline-primary .btn-sm}
+[{{< iconify bi twitter >}} Twitter](https://twitter.com/GabrielRamV){.btn .btn-outline-primary .btn-sm}
+[{{< iconify bi bluesky >}} Bluesky](https://bsky.app/profile/gabrielramirezv.bsky.social){.btn .btn-outline-primary .btn-sm}
+[{{< iconify bi envelope >}} Email](mailto:gramirez@lcg.unam.mx){.btn .btn-outline-primary .btn-sm}
+
 
 ## About Me
 
-I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) at the 
-[National Autonomous University of Mexico (UNAM)](https://www.unam.mx/).  
+I am an undergraduate student in [Genomic Sciences](https://www.lcg.unam.mx/) 
+at the [National Autonomous University of Mexico (UNAM)](https://www.unam.mx/), guided by humanity, ressponsibility and accountability.  
 
 My main interests include:  
 
-- **Immunology** and host–virus interactions  
-- **Erythropoiesis** and red blood cell development  
-- **Neuroscience**, particularly neurodevelopment and neurodegenerative diseases  
-- **Bioinformatics & Genomics**, especially RNA-seq and machine learning applications in biology   
+- **Immunology** and host–virus interactions.  
+- **Neuroscience**, particularly neurodevelopment and neurodegenerative diseases.  
+- **Bioinformatics & Genomics**, especially RNA-seq and machine learning applications in biology.   
 
-I am guided by humanity, responsability and accountability. I combine my background in biology with bioinformatics skills to understand biological phenomena and address questions about life from different perspectives. I am also developing skills in project and business management, with the goal of connecting scientific knowledge with real-world applications in biotechnology.  
+I combine my background in biology with bioinformatics skills to understand 
+biological phenomena and address questions about life from different 
+perspectives. I am also developing skills in project and business management, 
+with the goal of connecting scientific knowledge with real-world applications 
+in biotechnology.  
 
-My commitment is to contribute to impactful research by turning scientific questions into meaningful insights and solutions.  
+My commitment is to contribute to impactful research by turning scientific 
+questions into meaningful insights and solutions.  
 
 ---
 
