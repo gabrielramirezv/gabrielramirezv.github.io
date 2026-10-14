@@ -453,5 +453,47 @@
     "title": "Science & Code",
     "section": "",
     "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/books/2026-10-13-fahrenheit-451/index.html",
+    "href": "posts/books/2026-10-13-fahrenheit-451/index.html",
+    "title": "Fahrenheit 451: Memory, Critical Thought, and the Preservation of Knowledge",
+    "section": "",
+    "text": "Ray Bradbury’s Fahrenheit 451 is often read as a warning about government censorship, but its core theme runs much deeper: it warns against a society that willingly abandons literature and critical reflection in favor of immediate, frictionless distraction.\nIn Bradbury’s dystopian world, firemen do not extinguish fires; they burn books to maintain a superficial state of collective harmony."
+  },
+  {
+    "objectID": "posts/books/2026-10-13-fahrenheit-451/index.html#key-takeaways-personal-reflections",
+    "href": "posts/books/2026-10-13-fahrenheit-451/index.html#key-takeaways-personal-reflections",
+    "title": "Fahrenheit 451: Memory, Critical Thought, and the Preservation of Knowledge",
+    "section": "Key Takeaways & Personal Reflections",
+    "text": "Key Takeaways & Personal Reflections\n\n1. Speed, Noise, and Constant Distraction\nGuy Montag’s world is defined by parlor walls and seashells—constant streams of noise that leave no quiet space for introspection. Bradbury foresaw how hyper-connectivity and immediate satisfaction can erode our capacity for sustained, deep thought.\n\n\n2. The Living Books\nOne of the most powerful concepts in the novel is the community of outcasts who memorize entire literary and philosophical works to preserve them for future generations. Knowledge is no longer stored on paper, but within human memory and oral tradition.\n\n\n3. Science and Literature\nWorking in scientific research often requires deep technical focus, but engaging with literature like Fahrenheit 451 provides a vital counterweight—reminding us of the human contexts, ethics, and histories that give direction to our analytical work.\n\nRecommended for anyone interested in classic dystopian fiction, philosophy of technology, and the history of ideas."
+  },
+  {
+    "objectID": "blog/books.html",
+    "href": "blog/books.html",
+    "title": "Book Reviews & Notes",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nFahrenheit 451: Memory, Critical Thought, and the Preservation of Knowledge\n\n\n\nLiterature\n\nDystopia\n\nRay Bradbury\n\nReflections\n\n\n\nNotes and personal reflections on Ray Bradbury’s classic novel Fahrenheit 451, exploring themes of censorship, technological distraction, and cultural memory.\n\n\n\n\n\nOct 13, 2026\n\n2 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/science.html",
+    "href": "blog/science.html",
+    "title": "Science & Code",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nPseudobulk Aggregation Workflows for Single-Cell RNA-seq Data\n\n\n\nSingle-Cell\n\nR\n\nBioinformatics\n\nWorkflows\n\n\n\nA quick practical overview on aggregating scRNA-seq gene expression matrices into pseudobulk profiles for robust differential expression analysis using Seurat and edgeR.\n\n\n\n\n\nOct 13, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/science/2026-10-13-scrna-pseudobulk/index.html",
+    "href": "posts/science/2026-10-13-scrna-pseudobulk/index.html",
+    "title": "Pseudobulk Aggregation Workflows for Single-Cell RNA-seq Data",
+    "section": "",
+    "text": "When analyzing single-cell RNA sequencing (scRNA-seq) datasets, treating individual cells as independent statistical replicates can lead to inflated false-positive rates due to cell-to-cell dependencies within the same biological sample.\nAggregating single-cell counts into pseudobulk profiles by sample and cell type allows us to leverage well-established bulk differential expression frameworks (like edgeR or DESeq2)."
+  },
+  {
+    "objectID": "posts/science/2026-10-13-scrna-pseudobulk/index.html#key-steps-in-pseudobulk-differential-expression",
+    "href": "posts/science/2026-10-13-scrna-pseudobulk/index.html#key-steps-in-pseudobulk-differential-expression",
+    "title": "Pseudobulk Aggregation Workflows for Single-Cell RNA-seq Data",
+    "section": "Key Steps in Pseudobulk Differential Expression",
+    "text": "Key Steps in Pseudobulk Differential Expression\n\nCell Type Annotation & QC: Ensure low-quality cells and doublets are removed prior to aggregation.\nAggregation by Sample & Cell Type: Sum unnormalized raw counts for each gene within each combination of cell type and donor sample.\nStatistical Testing: Model counts using negative binomial generalized linear models (GLMs).\n\n# Load necessary libraries\nsuppressPackageStartupMessages({\n  library(Seurat)\n  library(edgeR)\n  library(dplyr)\n})\n\n# Example: Aggregating raw counts in Seurat v5\n# pbmc is a Seurat object with 'cell_type' and 'donor_id' in meta.data\npseudobulk_counts &lt;- AggregateExpression(\n  object = pbmc,\n  group.by = c(\"cell_type\", \"donor_id\"),\n  slot = \"counts\"\n)\n\n# Inspect aggregated matrix for a specific cell type\nhead(pseudobulk_counts$RNA)"
   }
 ]

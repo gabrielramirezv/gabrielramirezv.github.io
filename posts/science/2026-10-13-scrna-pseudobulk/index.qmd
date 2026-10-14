@@ -1,0 +1,38 @@
+---
+title: "Pseudobulk Aggregation Workflows for Single-Cell RNA-seq Data"
+author: "Gabriel Ramírez Vilchis"
+date: "2026-10-13"
+categories: [Single-Cell, R, Bioinformatics, Workflows]
+description: "A quick practical overview on aggregating scRNA-seq gene expression matrices into pseudobulk profiles for robust differential expression analysis using Seurat and edgeR."
+image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=800&q=80"
+---
+
+When analyzing single-cell RNA sequencing (scRNA-seq) datasets, treating individual cells as independent statistical replicates can lead to inflated false-positive rates due to cell-to-cell dependencies within the same biological sample.
+
+Aggregating single-cell counts into **pseudobulk profiles** by sample and cell type allows us to leverage well-established bulk differential expression frameworks (like `edgeR` or `DESeq2`).
+
+## Key Steps in Pseudobulk Differential Expression
+
+1. **Cell Type Annotation & QC:** Ensure low-quality cells and doublets are removed prior to aggregation.
+2. **Aggregation by Sample & Cell Type:** Sum unnormalized raw counts for each gene within each combination of cell type and donor sample.
+3. **Statistical Testing:** Model counts using negative binomial generalized linear models (GLMs).
+
+```r
+# Load necessary libraries
+suppressPackageStartupMessages({
+  library(Seurat)
+  library(edgeR)
+  library(dplyr)
+})
+
+# Example: Aggregating raw counts in Seurat v5
+# pbmc is a Seurat object with 'cell_type' and 'donor_id' in meta.data
+pseudobulk_counts <- AggregateExpression(
+  object = pbmc,
+  group.by = c("cell_type", "donor_id"),
+  slot = "counts"
+)
+
+# Inspect aggregated matrix for a specific cell type
+head(pseudobulk_counts$RNA)
+``` 

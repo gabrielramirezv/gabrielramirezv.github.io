@@ -1,0 +1,14 @@
+---
+title: "Book Reviews & Notes"
+subtitle: "Reflections on literature, classical fiction, essays, and personal reading notes."
+listing:
+  contents: "../posts/books/*/*"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: true
+---

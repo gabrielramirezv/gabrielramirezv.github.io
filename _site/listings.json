@@ -2,5 +2,17 @@
   {
     "listing": "/blogs.html",
     "items": []
+  },
+  {
+    "listing": "/blog/books.html",
+    "items": [
+      "/posts/books/2026-10-13-fahrenheit-451/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/science.html",
+    "items": [
+      "/posts/science/2026-10-13-scrna-pseudobulk/index.html"
+    ]
   }
 ]
