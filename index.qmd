@@ -63,3 +63,30 @@ _[Universidad Nacional Autónoma de México (UNAM)](https://www.lcg.unam.mx/)_
 * **Programming & Scientific Computing:** R, Python, Numerical Methods, Algorithms.
 * **HPC & Tooling:** Linux/Bash, Slurm Cluster Environments, Git, GitHub, Conda, Positron IDE.
 * **Documentation & Publishing:** Quarto, R Markdown, LaTeX.
+
+---
+
+## Open-Source Activity & Social Feed
+
+### GitHub Contributions
+::: {.my-4 .text-center}
+::: {.my-3}
+<a href="https://github.com/gabrielramirezv" target="_blank">
+  <img src="https://ghchart.rshah.org/409ba5/gabrielramirezv" alt="Gabriel's GitHub Contributions" class="img-fluid" />
+</a>
+:::
+
+[ {{< iconify bi github >}} Visit GitHub Profile](https://github.com/gabrielramirezv){.btn .btn-outline-primary .btn-sm target="_blank"}
+:::
+
+
+### Recent Thoughts on Bluesky
+
+<h3 id="bluesky-posts"></h3>
+<script src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
+<bsky-embed username="gabrielramirezv.bsky.social" mode="" limit="3">
+</bsky-embed> 
+
+::: {.my-4 .text-center}
+[ {{< iconify bi bluesky >}} Follow on Bluesky](https://bsky.app/profile/gabrielramirezv.bsky.social){.btn .btn-outline-primary .btn-sm target="_blank"}
+:::

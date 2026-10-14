@@ -1,0 +1,47 @@
+---
+title: "Beyond the Lab"
+toc: true
+---
+
+While genomics and bioinformatics occupy much of my time, I believe in maintaining a balanced life through artistic expression, literature, and music.
+
+---
+
+## Mexican Regional Folk Dance (*Danza Regional Mexicana*)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-8}
+I actively practice and perform **danza regional mexicana**. Mexican folk dance is a vibrant discipline that connects tradition, rhythm, identity, and cultural storytelling from diverse regions across Mexico.
+
+Practicing folk dance provides a creative outlet, physical discipline, and a deep appreciation for regional cultural heritage alongside my scientific work.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card .text-center .p-3 .shadow-sm}
+{{< iconify bi music-note-beamed size=3x >}}
+
+**Culture & Movement**  
+*Traditional Mexican Folkloric Dance*
+:::
+:::
+
+:::
+
+---
+
+## Classical & Contemporary Literature
+
+I am an avid reader with a deep interest in literature that explores human nature, society, and personal introspection. Some of my favorite literary works and authors include:
+
+* **Hermann Hesse** — *Der Steppenwolf* (*El lobo estepario*)
+* **Ray Bradbury** — *Fahrenheit 451*
+* **Classical & Philosophical Fiction** — Exploring narratives on identity, society, and existential themes.
+
+> *"Literature offers a reflective space to contemplate complex human experiences—a valuable perspective that enriches scientific inquiry."*
+
+---
+
+## Music & Piano
+
+Learning to play the **piano** is one of my ongoing personal projects. Playing music requires a unique combination of structural practice, pattern recognition, and artistic interpretation—skills that complement the analytical mindset needed in bioinformatics.

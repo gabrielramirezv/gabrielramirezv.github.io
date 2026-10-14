@@ -1,0 +1,55 @@
+---
+title: "Teaching & Outreach"
+toc: true
+---
+
+My academic activities include undergraduate course assistance, guest lecturing in bioinformatics, research seminars, and scientific outreach for pre-university students.
+
+---
+
+## Guest Lectures & Workshops
+
+* **Building Academic Websites with R & Postcards** | *February 2026*  
+  *Guest Lecturer — LCG Bioinformatics Module (UNAM)*  
+  Taught undergraduate students how to construct, design, and deploy clean academic personal websites using R Markdown and the `postcards` package.
+
+* **Single-Nucleus RNA Sequencing (snRNA-seq) Workflows in Neurogenomics** | *February 2026*  
+  *Guest Lecturer — LCG Bioinformatics Module (UNAM)*  
+  Presented research from my project at the Lieber Institute for Brain Development (LIBD), detailing single-nucleus transcriptomic processing, quality control, and cell-type profiling in human brain tissue.
+
+---
+
+## Teaching Assistantships
+
+### Course Assistant in Python Programming
+**Universidad Nacional Autónoma de México (UNAM)** | *Licenciatura en Ciencias Genómicas*  
+*Period: February 2026 – June 2026*
+
+* **Topics Covered:** Fundamentals of Python, data structures, object-oriented programming, numerical computing (`NumPy`, `Pandas`), and introductory algorithmic problem-solving for biological data.
+* **Responsibilities:** Led practical coding sessions, graded assignments, provided one-on-one debugging support, and developed hands-on computational notebooks for genomics students.
+
+---
+
+### Course Assistant in Probability
+**Universidad Nacional Autónoma de México (UNAM)** | *Licenciatura en Ciencias Genómicas*  
+*Period: August 2025 – December 2025*
+
+* **Topics Covered:** Axiomatic probability, random variables, discrete and continuous probability distributions, joint distributions, limit theorems, and applications in biological modeling.
+* **Responsibilities:** Facilitated problem-solving workshops, prepared review problem sets, graded exams, and explained mathematical concepts applied to genomics and computational biology.
+
+---
+
+## Science Outreach & Community Engagement
+
+* **Exploring Erythrocyte Biology & Genomics** | *Month Year*  
+  *Invited Speaker — Escuela Nacional Preparatoria No. 2 "Erasmo Castellanos Quinto" (UNAM)*  
+  Presented research conducted at the Instituto de Biotecnología (IBt, UNAM) on erythrocyte biology to high school students, promoting interest in genomic sciences, biotechnology, and scientific careers.
+
+---
+
+## Computational Resources & Tutorials
+
+::: {.callout-tip appearance="simple"}
+### Educational Materials
+Over time, I share open-source code templates, Jupyter Notebooks, and practice guides for Python programming and scientific computing on my [GitHub](https://github.com/tu-usuario){target="_blank"}.
+:::

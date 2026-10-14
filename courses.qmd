@@ -1,0 +1,47 @@
+---
+title: "Courses & Training"
+toc: true
+---
+
+A comprehensive list of specialized scientific training, pre-conference workshops, elective academic coursework, leadership programs, and language certifications.
+
+---
+
+## Advanced Scientific & Technical Training
+
+* **Immunophenotyping of Leukemias by Flow Cytometry** | *June 2025*  
+  *Laboratorio Nacional de Citometría de Flujo (LANAFLOW)*  
+  Specialized hands-on training covering flow cytometry fundamentals, multi-parametric panel design, gating strategies, and cell immunophenotyping protocols.
+
+* **Pre-Conference Scientific Workshops** | *September 2025*  
+  *XXVI National Congress of Immunology* | Chihuahua, Mexico  
+  Intensive training sessions focused on advanced immunogenomics and experimental techniques.
+
+---
+
+## Relevant Advanced Coursework (UNAM)
+
+Selected elective and specialized courses taken during the *Licenciatura en Ciencias Genómicas*:
+
+* **Population Genomics & Human Evolutionary Genetics**
+* **Immunogenomics & Single-Cell Transcriptomics**
+* **Numerical Methods & Scientific Computing**
+
+---
+
+## Leadership, Business & Technology
+
+* **Agentforce AI & Cloud Agent Platforms** | *July 2026*  
+  *Salesforce / De México a San Francisco Program*  
+  Technical training on autonomous AI agent configuration, workflow orchestration, and business applications.
+
+* **Professional & Life Skills Training**  
+  Workshops and programs focused on project management, teamwork, and professional communication.
+
+---
+
+## Language Certifications
+
+* **TOEFL ITP English Proficiency Examination** | *April 2025*  
+  *Escuela Nacional de Lenguas, Lingüística y Traducción (ENALLT, UNAM)*  
+  Official certification demonstrating advanced proficiency in academic English (listening, structure, and reading comprehension).

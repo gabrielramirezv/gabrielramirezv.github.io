@@ -166,5 +166,292 @@
     "title": "Publications",
     "section": "Peer-Reviewed Publications",
     "text": "Peer-Reviewed Publications\n\n\n\n\n\n\nRepresentative publications and preprints will be added here as they become available.\nYou can also find my complete list of works on Google Scholar or via ORCID."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Outreach",
+    "section": "",
+    "text": "My academic activities include undergraduate course assistance, guest lecturing in bioinformatics, research seminars, and scientific outreach for pre-university students."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching & Outreach",
+    "section": "Teaching Assistantships",
+    "text": "Teaching Assistantships\n\nCourse Assistant in Python Programming\nUniversidad Nacional Autónoma de México (UNAM) | Licenciatura en Ciencias Genómicas\nPeriod: February 2026 – June 2026\n\nTopics Covered: Fundamentals of Python, data structures, object-oriented programming, numerical computing (NumPy, Pandas), and introductory algorithmic problem-solving for biological data.\nResponsibilities: Led practical coding sessions, graded assignments, provided one-on-one debugging support, and developed hands-on computational notebooks for genomics students.\n\n\n\n\nCourse Assistant in Probability\nUniversidad Nacional Autónoma de México (UNAM) | Licenciatura en Ciencias Genómicas\nPeriod: August 2025 – December 2025\n\nTopics Covered: Axiomatic probability, random variables, discrete and continuous probability distributions, joint distributions, limit theorems, and applications in biological modeling.\nResponsibilities: Facilitated problem-solving workshops, prepared review problem sets, graded exams, and explained mathematical concepts applied to genomics and computational biology."
+  },
+  {
+    "objectID": "teaching.html#computational-resources-tutorials",
+    "href": "teaching.html#computational-resources-tutorials",
+    "title": "Teaching & Outreach",
+    "section": "Computational Resources & Tutorials",
+    "text": "Computational Resources & Tutorials\n\n\n\n\n\n\nTipEducational Materials\n\n\n\nOver time, I share open-source code templates, Jupyter Notebooks, and practice guides for Python programming and scientific computing on my GitHub."
+  },
+  {
+    "objectID": "teaching.html#guest-lectures-workshops",
+    "href": "teaching.html#guest-lectures-workshops",
+    "title": "Teaching & Outreach",
+    "section": "Guest Lectures & Workshops",
+    "text": "Guest Lectures & Workshops\n\nBuilding Academic Websites with R & Postcards | February 2026\nGuest Lecturer — LCG Bioinformatics Module (UNAM)\nTaught undergraduate students how to construct, design, and deploy clean academic personal websites using R Markdown and the postcards package.\nSingle-Nucleus RNA Sequencing (snRNA-seq) Workflows in Neurogenomics | February 2026\nGuest Lecturer — LCG Bioinformatics Module (UNAM)\nPresented research from my project at the Lieber Institute for Brain Development (LIBD), detailing single-nucleus transcriptomic processing, quality control, and cell-type profiling in human brain tissue."
+  },
+  {
+    "objectID": "teaching.html#science-outreach-community-engagement",
+    "href": "teaching.html#science-outreach-community-engagement",
+    "title": "Teaching & Outreach",
+    "section": "Science Outreach & Community Engagement",
+    "text": "Science Outreach & Community Engagement\n\nExploring Erythrocyte Biology & Genomics | Month Year\nInvited Speaker — Escuela Nacional Preparatoria No. 2 “Erasmo Castellanos Quinto” (UNAM)\nPresented research conducted at the Instituto de Biotecnología (IBt, UNAM) on erythrocyte biology to high school students, promoting interest in genomic sciences, biotechnology, and scientific careers."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF CV"
+  },
+  {
+    "objectID": "cv.html#gabriel-ramírez-vilchis",
+    "href": "cv.html#gabriel-ramírez-vilchis",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF CV"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nB.Sc. in Genomic Sciences (Licenciatura en Ciencias Genómicas)\nUniversidad Nacional Autónoma de México (UNAM) | Senior Year (2022 – Present)"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\n\nUndergraduate Researcher | MorenoLab (Population Genomics)\nCinvestav / LANGEBIO\nFocus: Single-cell RNA-seq analysis of PBMC samples from Indigenous populations of Colombia, pseudobulk aggregation, differential expression, and cell-type annotation.\nUndergraduate Researcher | Lieber Institute for Brain Development (LIBD)\nFocus: Single-nucleus transcriptomic processing, cell-type profiling, and neurogenomics workflows in human brain tissue."
+  },
+  {
+    "objectID": "cv.html#publications-preprints",
+    "href": "cv.html#publications-preprints",
+    "title": "Curriculum Vitae",
+    "section": "Publications & Preprints",
+    "text": "Publications & Preprints\n\n[Coauthors], Ramírez-Vilchis, G., [Coauthors].\n[Title of Published Review Article]. Journal Name (Year).\nCorona-Gómez, J.A., Zambada-Moreno, O., Rojas-Hidalgo, A., …, Ramírez-Vilchis, G., et al.\nLatinCells: A Human Cell Atlas of Latin American Immune Diversity. (In preparation)."
+  },
+  {
+    "objectID": "cv.html#teaching-outreach",
+    "href": "cv.html#teaching-outreach",
+    "title": "Curriculum Vitae",
+    "section": "Teaching & Outreach",
+    "text": "Teaching & Outreach\n\nCourse Assistant: Python Programming & Probability | UNAM (2025 – 2026)\nGuest Lecturer: Building Academic Websites & snRNA-seq Workflows | LCG, UNAM\nOutreach Speaker: Erythrocyte Biology Presentation | Escuela Nacional Preparatoria No. 2, UNAM"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nBioinformatics: scRNA-seq / snRNA-seq, Seurat, edgeR, zellkonverter, Azimuth, MapMyCells, AnnData.\nProgramming & Tools: R, Python, Linux/Bash, Slurm Cluster Environments, Git/GitHub, Conda, Quarto, LaTeX."
+  },
+  {
+    "objectID": "cv.html#embedded-document-viewer",
+    "href": "cv.html#embedded-document-viewer",
+    "title": "Curriculum Vitae",
+    "section": "Embedded Document Viewer",
+    "text": "Embedded Document Viewer"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
+    "title": "Presentations & Conferences",
+    "section": "",
+    "text": "A collection of slide decks, poster presentations, and academic meetings I have participated in."
+  },
+  {
+    "objectID": "presentations.html#featured-talks-slide-decks",
+    "href": "presentations.html#featured-talks-slide-decks",
+    "title": "Presentations & Conferences",
+    "section": "Featured Talks & Slide Decks",
+    "text": "Featured Talks & Slide Decks\n\nSingle-Nucleus RNA Sequencing (snRNA-seq) Workflows in Neurogenomics\nBioinformatics Module — Licenciatura en Ciencias Genómicas (UNAM)\n\n\n\n\n View Deck on Speaker Deck"
+  },
+  {
+    "objectID": "presentations.html#conference-posters-abstracts",
+    "href": "presentations.html#conference-posters-abstracts",
+    "title": "Presentations & Conferences",
+    "section": "Conference Posters & Abstracts",
+    "text": "Conference Posters & Abstracts\n\nGenetic diversity and immune cell composition in Colombian Indigenous populations from contrasting environments. | 2026\nRamírez-Vilchis, G., Espitia-Fajardo, M.N., Zambada-Moreno, O., Corona-Gómez, J.A., González-Buenfil, R., Espinosa-Jaime, A., Orozco-Pérez, D., Orozco-Barrera, S., González-Ipuana, Y., Zamudio-Jácome, A.M., Peña-Sánchez, J.P., Rojas-Ruco, L.T., Moreno-Estrada, A., & Barreto, G.\nThe 15th International Congress of Human Genetics (ICHG)\n[Poster Presentation] [Human Evolutionary Genomics]\nSingle-cell transcriptomic characterization of immune cell diversity across population samples. | October 2025\nRamírez-Vilchis, G., et al.\nXXVI National Congress of Immunology | Chihuahua, Mexico\n[Poster Presentation] [Immunogenomics]"
+  },
+  {
+    "objectID": "presentations.html#academic-meetings-attended",
+    "href": "presentations.html#academic-meetings-attended",
+    "title": "Presentations & Conferences",
+    "section": "Academic Meetings Attended",
+    "text": "Academic Meetings Attended\n\nXXVI National Congress of Immunology | September 28 – October 2, 2025\nOrganized by the Sociedad Mexicana de Inmunología | Chihuahua, Chihuahua, Mexico."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses & Training",
+    "section": "",
+    "text": "A comprehensive list of specialized scientific training, pre-conference workshops, elective academic coursework, leadership programs, and language certifications."
+  },
+  {
+    "objectID": "courses.html#technical-scientific-training",
+    "href": "courses.html#technical-scientific-training",
+    "title": "Courses & Training",
+    "section": "Technical & Scientific Training",
+    "text": "Technical & Scientific Training\n\nImmunophenotyping of Leukemias by Flow Cytometry | June 2025\nLaboratorio Nacional de Citometría de Flujo (LANAFLOW)\nSpecialized training covering flow cytometry fundamentals, multi-parametric panel design, gating strategies, and cell immunophenotyping protocols for leukemia diagnosis and research.\nAgentforce AI & Cloud Agent Platforms | July 2026\nSalesforce / De México a San Francisco Program\nTechnical training on autonomous AI agent configuration, workflow orchestration, and cloud platform integrations."
+  },
+  {
+    "objectID": "courses.html#language-certification-exams",
+    "href": "courses.html#language-certification-exams",
+    "title": "Courses & Training",
+    "section": "Language & Certification Exams",
+    "text": "Language & Certification Exams\n\nTOEFL ITP English Proficiency Examination | April 2025\nEscuela Nacional de Lenguas, Lingüística y Traducción (ENALLT, UNAM)\nOfficial certification demonstrating advanced proficiency in academic English listening, structure, and reading comprehension."
+  },
+  {
+    "objectID": "courses.html#technical-workshops-open-source-tools",
+    "href": "courses.html#technical-workshops-open-source-tools",
+    "title": "Courses & Training",
+    "section": "Technical Workshops & Open-Source Tools",
+    "text": "Technical Workshops & Open-Source Tools\n\n\n\n\n\n\nNoteContinuous Learning\n\n\n\nI regularly complete specialized tutorials and computational modules in High-Performance Computing (Slurm), reproducible research (Quarto / R Markdown), single-cell data interoperability, and numerical algorithm development."
+  },
+  {
+    "objectID": "courses.html#advanced-scientific-technical-training",
+    "href": "courses.html#advanced-scientific-technical-training",
+    "title": "Courses & Training",
+    "section": "Advanced Scientific & Technical Training",
+    "text": "Advanced Scientific & Technical Training\n\nImmunophenotyping of Leukemias by Flow Cytometry | June 2025\nLaboratorio Nacional de Citometría de Flujo (LANAFLOW)\nSpecialized hands-on training covering flow cytometry fundamentals, multi-parametric panel design, gating strategies, and cell immunophenotyping protocols.\nPre-Conference Scientific Workshops | September 2025\nXXVI National Congress of Immunology | Chihuahua, Mexico\nIntensive training sessions focused on advanced immunogenomics and experimental techniques."
+  },
+  {
+    "objectID": "courses.html#relevant-advanced-coursework-unam",
+    "href": "courses.html#relevant-advanced-coursework-unam",
+    "title": "Courses & Training",
+    "section": "Relevant Advanced Coursework (UNAM)",
+    "text": "Relevant Advanced Coursework (UNAM)\nSelected elective and specialized courses taken during the Licenciatura en Ciencias Genómicas:\n\nPopulation Genomics & Human Evolutionary Genetics\nImmunogenomics & Single-Cell Transcriptomics\nNumerical Methods & Scientific Computing"
+  },
+  {
+    "objectID": "courses.html#leadership-business-technology",
+    "href": "courses.html#leadership-business-technology",
+    "title": "Courses & Training",
+    "section": "Leadership, Business & Technology",
+    "text": "Leadership, Business & Technology\n\nAgentforce AI & Cloud Agent Platforms | July 2026\nSalesforce / De México a San Francisco Program\nTechnical training on autonomous AI agent configuration, workflow orchestration, and business applications.\nProfessional & Life Skills Training\nWorkshops and programs focused on project management, teamwork, and professional communication."
+  },
+  {
+    "objectID": "courses.html#language-certifications",
+    "href": "courses.html#language-certifications",
+    "title": "Courses & Training",
+    "section": "Language Certifications",
+    "text": "Language Certifications\n\nTOEFL ITP English Proficiency Examination | April 2025\nEscuela Nacional de Lenguas, Lingüística y Traducción (ENALLT, UNAM)\nOfficial certification demonstrating advanced proficiency in academic English (listening, structure, and reading comprehension)."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards & Recognitions",
+    "section": "",
+    "text": "A selection of academic distinctions, competitive program selections, scholarships, and honors awarded throughout my undergraduate studies and research activities."
+  },
+  {
+    "objectID": "awards.html#academic-honors-distinctions",
+    "href": "awards.html#academic-honors-distinctions",
+    "title": "Awards & Recognitions",
+    "section": "Academic Honors & Distinctions",
+    "text": "Academic Honors & Distinctions\n\nSelected Participant — “De México a San Francisco” Program | July 2026\nSalesforce & Partner Organizations\nCompetitive selection for high-achieving Mexican students to receive specialized technical training in AI agent platforms and technology innovation.\nAcademic Excellence & Merit | 2022 – Present\nLicenciatura en Ciencias Genómicas (LCG), UNAM\nRecognition for outstanding academic performance throughout undergraduate studies in Genomic Sciences."
+  },
+  {
+    "objectID": "awards.html#scholarships-fellowships",
+    "href": "awards.html#scholarships-fellowships",
+    "title": "Awards & Recognitions",
+    "section": "Scholarships & Fellowships",
+    "text": "Scholarships & Fellowships\n\nUndergraduate Research Fellowship / Scholarship | Period: Month Year – Present\nUniversidad Nacional Autónoma de México (UNAM)\nFinancial support awarded to support full-time undergraduate research in population genomics and bioinformatics."
+  },
+  {
+    "objectID": "awards.html#competitive-travel-conference-grants",
+    "href": "awards.html#competitive-travel-conference-grants",
+    "title": "Awards & Recognitions",
+    "section": "Competitive Travel & Conference Grants",
+    "text": "Competitive Travel & Conference Grants\n\nConference Travel Grant — XXVI National Congress of Immunology | September 2025\nSociedad Mexicana de Inmunología / Academic Sponsor\nFunding awarded to present research on single-cell population transcriptomics in Chihuahua, Mexico."
+  },
+  {
+    "objectID": "awards.html#science-competitions-early-academic-honors",
+    "href": "awards.html#science-competitions-early-academic-honors",
+    "title": "Awards & Recognitions",
+    "section": "Science Competitions & Early Academic Honors",
+    "text": "Science Competitions & Early Academic Honors\n\n[Award Name, e.g., First Place / Honorable Mention] — Science Olympiad / Science Fair | Month Year\nEscuela Nacional Preparatoria / Institution Name\nRecognized for research/performance in [Subject, e.g., Biology, Chemistry, Mathematics] at the regional/national level during high school studies."
+  },
+  {
+    "objectID": "affiliations.html",
+    "href": "affiliations.html",
+    "title": "Memberships & Affiliations",
+    "section": "",
+    "text": "A summary of my current research laboratory affiliations, academic institution memberships, and professional scientific societies."
+  },
+  {
+    "objectID": "affiliations.html#research-laboratories-academic-institutions",
+    "href": "affiliations.html#research-laboratories-academic-institutions",
+    "title": "Memberships & Affiliations",
+    "section": "Research Laboratories & Academic Institutions",
+    "text": "Research Laboratories & Academic Institutions\n\nMorenoLab — Population & Evolutionary Genomics | 2024 – Present\nCentro de Investigación y de Estudios Avanzados (Cinvestav) / LANGEBIO\nRole: Undergraduate Student Researcher\nFocus: Single-cell RNA sequencing analysis and population genomics in Latin American Indigenous populations.\nLieber Institute for Brain Development (LIBD) | 2025 – Present\nJohns Hopkins Medical Campus Affiliate\nRole: Visiting / Remote Undergraduate Researcher\nFocus: Single-nucleus RNA sequencing (snRNA-seq) and neurogenomics workflows in human brain tissue.\nUniversidad Nacional Autónoma de México (UNAM) | 2022 – Present\nLicenciatura en Ciencias Genómicas (LCG)\nRole: Senior Undergraduate Student & Teaching Assistant"
+  },
+  {
+    "objectID": "affiliations.html#professional-scientific-societies",
+    "href": "affiliations.html#professional-scientific-societies",
+    "title": "Memberships & Affiliations",
+    "section": "Professional & Scientific Societies",
+    "text": "Professional & Scientific Societies\n\nSociedad Mexicana de Inmunología (SMI) | 2025\nRole: Student Member"
+  },
+  {
+    "objectID": "beyond-the-lab.html",
+    "href": "beyond-the-lab.html",
+    "title": "Beyond the Lab",
+    "section": "",
+    "text": "While genomics and bioinformatics occupy much of my time, I believe in maintaining a balanced life through artistic expression, literature, and music."
+  },
+  {
+    "objectID": "beyond-the-lab.html#mexican-regional-folk-dance-danza-regional-mexicana",
+    "href": "beyond-the-lab.html#mexican-regional-folk-dance-danza-regional-mexicana",
+    "title": "Beyond the Lab",
+    "section": "Mexican Regional Folk Dance (Danza Regional Mexicana)",
+    "text": "Mexican Regional Folk Dance (Danza Regional Mexicana)\n\n\nI actively practice and perform danza regional mexicana. Mexican folk dance is a vibrant discipline that connects tradition, rhythm, identity, and cultural storytelling from diverse regions across Mexico.\nPracticing folk dance provides a creative outlet, physical discipline, and a deep appreciation for regional cultural heritage alongside my scientific work.\n\n\n\n\nCulture & Movement\nTraditional Mexican Folkloric Dance"
+  },
+  {
+    "objectID": "beyond-the-lab.html#classical-contemporary-literature",
+    "href": "beyond-the-lab.html#classical-contemporary-literature",
+    "title": "Beyond the Lab",
+    "section": "Classical & Contemporary Literature",
+    "text": "Classical & Contemporary Literature\nI am an avid reader with a deep interest in literature that explores human nature, society, and personal introspection. Some of my favorite literary works and authors include:\n\nHermann Hesse — Der Steppenwolf (El lobo estepario)\nRay Bradbury — Fahrenheit 451\nClassical & Philosophical Fiction — Exploring narratives on identity, society, and existential themes.\n\n\n“Literature offers a reflective space to contemplate complex human experiences—a valuable perspective that enriches scientific inquiry.”"
+  },
+  {
+    "objectID": "beyond-the-lab.html#music-piano",
+    "href": "beyond-the-lab.html#music-piano",
+    "title": "Beyond the Lab",
+    "section": "Music & Piano",
+    "text": "Music & Piano\nLearning to play the piano is one of my ongoing personal projects. Playing music requires a unique combination of structural practice, pattern recognition, and artistic interpretation—skills that complement the analytical mindset needed in bioinformatics."
+  },
+  {
+    "objectID": "index.html#github-activity-open-source-work",
+    "href": "index.html#github-activity-open-source-work",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "GitHub Activity & Open-Source Work",
+    "text": "GitHub Activity & Open-Source Work\n\n  \n    \n      GitHub Profile Overview\n      \n        \n      \n    \n  \n  \n    \n      Top Languages\n      \n        \n      \n    \n  \n\n\n  \n     Ver Perfil Completo en GitHub"
+  },
+  {
+    "objectID": "index.html#activity-social-feed",
+    "href": "index.html#activity-social-feed",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "",
+    "text": "Cargando datos de GitHub...\n      \n        \n        Repositorios Públicos\n        \n          \n            \n            Seguidores\n          \n          \n            \n            Siguiendo\n          \n        \n      \n      \n      \n        \n           Ver Perfil en GitHub\n        \n      \n    \n  \n\n  \n  \n    \n      \n      Cargando publicaciones...\n      \n      \n        \n           Ver en Bluesky"
+  },
+  {
+    "objectID": "index.html#open-source-activity-social-feed",
+    "href": "index.html#open-source-activity-social-feed",
+    "title": "Gabriel Ramírez-Vilchis",
+    "section": "Open-Source Activity & Social Feed",
+    "text": "Open-Source Activity & Social Feed\n\nGitHub Contributions\n\n\n  \n\n Visit GitHub Profile\n\n\n\nRecent Thoughts on Bluesky\n\n\n\n \n\n Follow on Bluesky"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Science & Code",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
   }
 ]

@@ -1,0 +1,42 @@
+---
+title: "Awards & Recognitions"
+toc: true
+---
+
+A selection of academic distinctions, competitive program selections, scholarships, and honors awarded throughout my undergraduate studies and research activities.
+
+---
+
+## Academic Honors & Distinctions
+
+* **Selected Participant — "De México a San Francisco" Program** | *July 2026*  
+  *Salesforce & Partner Organizations*  
+  Competitive selection for high-achieving Mexican students to receive specialized technical training in AI agent platforms and technology innovation.
+
+* **Academic Excellence & Merit** | *2022 – Present*  
+  *Licenciatura en Ciencias Genómicas (LCG), UNAM*  
+  Recognition for outstanding academic performance throughout undergraduate studies in Genomic Sciences.
+
+---
+
+## Scholarships & Fellowships
+
+* **Undergraduate Research Fellowship / Scholarship** | *Period: Month Year – Present*  
+  *Universidad Nacional Autónoma de México (UNAM)*  
+  Financial support awarded to support full-time undergraduate research in population genomics and bioinformatics.
+
+---
+
+## Competitive Travel & Conference Grants
+
+* **Conference Travel Grant — XXVI National Congress of Immunology** | *September 2025*  
+  *Sociedad Mexicana de Inmunología / Academic Sponsor*  
+  Funding awarded to present research on single-cell population transcriptomics in Chihuahua, Mexico.
+
+---
+
+## Science Competitions & Early Academic Honors
+
+* **[Award Name, e.g., First Place / Honorable Mention] — Science Olympiad / Science Fair** | *Month Year*  
+  *Escuela Nacional Preparatoria / Institution Name*  
+  Recognized for research/performance in [Subject, e.g., Biology, Chemistry, Mathematics] at the regional/national level during high school studies.

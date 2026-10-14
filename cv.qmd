@@ -1,0 +1,59 @@
+---
+title: "Curriculum Vitae"
+toc: true
+---
+
+::: {.d-flex .justify-content-between .align-items-center .mb-4}
+[ {{< iconify bi file-earmark-pdf-fill >}} Download PDF CV ](CV_Gabriel_Ramirez_Vilchis.pdf){.btn .btn-primary target="_blank"}
+:::
+
+---
+
+## Education
+
+* **B.Sc. in Genomic Sciences** (*Licenciatura en Ciencias Genómicas*)  
+  *Universidad Nacional Autónoma de México (UNAM)* | Senior Year (2022 – Present)
+
+---
+
+## Research Experience
+
+* **Undergraduate Researcher** | MorenoLab (Population Genomics)  
+  *Cinvestav / LANGEBIO*  
+  *Focus:* Single-cell RNA-seq analysis of PBMC samples from Indigenous populations of Colombia, pseudobulk aggregation, differential expression, and cell-type annotation.
+
+* **Undergraduate Researcher** | Lieber Institute for Brain Development (LIBD)  
+  *Focus:* Single-nucleus transcriptomic processing, cell-type profiling, and neurogenomics workflows in human brain tissue.
+
+---
+
+## Publications & Preprints
+
+* **[Coauthors]**, **Ramírez-Vilchis, G.**, **[Coauthors]**.  
+  *[Title of Published Review Article]*. *Journal Name* (Year).
+
+* **Corona-Gómez, J.A.**, **Zambada-Moreno, O.**, **Rojas-Hidalgo, A.**, ..., **Ramírez-Vilchis, G.**, et al.  
+  *LatinCells: A Human Cell Atlas of Latin American Immune Diversity.* *(In preparation)*.
+
+---
+
+## Teaching & Outreach
+
+* **Course Assistant:** Python Programming & Probability | *UNAM (2025 – 2026)*
+* **Guest Lecturer:** Building Academic Websites & snRNA-seq Workflows | *LCG, UNAM*
+* **Outreach Speaker:** Erythrocyte Biology Presentation | *Escuela Nacional Preparatoria No. 2, UNAM*
+
+---
+
+## Technical Skills
+
+* **Bioinformatics:** scRNA-seq / snRNA-seq, Seurat, edgeR, zellkonverter, Azimuth, MapMyCells, AnnData.
+* **Programming & Tools:** R, Python, Linux/Bash, Slurm Cluster Environments, Git/GitHub, Conda, Quarto, LaTeX.
+
+---
+
+## Embedded Document Viewer
+
+::: {.ratio .ratio-16x9 .mt-4}
+<iframe src="CV_Gabriel_Ramirez_Vilchis.pdf" width="100%" height="600px"></iframe>
+:::

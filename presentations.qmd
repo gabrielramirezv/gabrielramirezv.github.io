@@ -1,0 +1,42 @@
+---
+title: "Presentations & Conferences"
+toc: true
+---
+
+A collection of slide decks, poster presentations, and academic meetings I have participated in.
+
+---
+
+## Featured Talks & Slide Decks
+
+### Single-Nucleus RNA Sequencing (snRNA-seq) Workflows in Neurogenomics
+*Bioinformatics Module — Licenciatura en Ciencias Genómicas (UNAM)*
+
+::: {.ratio .ratio-16x9 .my-3 style="max-width: 800px; margin: auto;"}
+<script async class="speakerdeck-embed" data-id="TU_SLIDE_ID_AQUI" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+:::
+
+::: {.text-center .mb-4}
+[ {{< iconify simple-icons speakerdeck >}} View Deck on Speaker Deck](https://speakerdeck.com/tu-usuario/tu-presentacion){.btn .btn-outline-primary .btn-sm target="_blank"}
+:::
+
+---
+
+## Conference Posters & Abstracts
+
+* **Genetic diversity and immune cell composition in Colombian Indigenous populations from contrasting environments.** | *2026*  
+  **Ramírez-Vilchis, G.**, Espitia-Fajardo, M.N., Zambada-Moreno, O., Corona-Gómez, J.A., González-Buenfil, R., Espinosa-Jaime, A., Orozco-Pérez, D., Orozco-Barrera, S., González-Ipuana, Y., Zamudio-Jácome, A.M., Peña-Sánchez, J.P., Rojas-Ruco, L.T., Moreno-Estrada, A., & Barreto, G.  
+  *The 15th International Congress of Human Genetics (ICHG)*  
+  `[Poster Presentation]` `[Human Evolutionary Genomics]`
+
+* **Single-cell transcriptomic characterization of immune cell diversity across population samples.** | *October 2025*  
+  **Ramírez-Vilchis, G.**, et al.  
+  *XXVI National Congress of Immunology* | Chihuahua, Mexico  
+  `[Poster Presentation]` `[Immunogenomics]`
+
+---
+
+## Academic Meetings Attended
+
+* **XXVI National Congress of Immunology** | *September 28 – October 2, 2025*  
+  Organized by the Sociedad Mexicana de Inmunología | Chihuahua, Chihuahua, Mexico.

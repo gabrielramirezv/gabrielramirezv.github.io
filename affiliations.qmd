@@ -1,0 +1,31 @@
+---
+title: "Memberships & Affiliations"
+toc: true
+---
+
+A summary of my current research laboratory affiliations, academic institution memberships, and professional scientific societies.
+
+---
+
+## Research Laboratories & Academic Institutions
+
+* **MorenoLab — Population & Evolutionary Genomics** | *2024 – Present*  
+  *Centro de Investigación y de Estudios Avanzados (Cinvestav) / LANGEBIO*  
+  *Role:* Undergraduate Student Researcher  
+  *Focus:* Single-cell RNA sequencing analysis and population genomics in Latin American Indigenous populations.
+
+* **Lieber Institute for Brain Development (LIBD)** | *2025 – Present*  
+  *Johns Hopkins Medical Campus Affiliate*  
+  *Role:* Visiting / Remote Undergraduate Researcher  
+  *Focus:* Single-nucleus RNA sequencing (snRNA-seq) and neurogenomics workflows in human brain tissue.
+
+* **Universidad Nacional Autónoma de México (UNAM)** | *2022 – Present*  
+  *Licenciatura en Ciencias Genómicas (LCG)*  
+  *Role:* Senior Undergraduate Student & Teaching Assistant
+
+---
+
+## Professional & Scientific Societies
+
+* **Sociedad Mexicana de Inmunología (SMI)** | *2025*  
+  *Role:* Student Member  
